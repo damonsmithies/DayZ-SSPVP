@@ -183,3 +183,70 @@
 
     // Portland
         "6102.024902 13.583655 14722.836914|89.955696 -0.000000 -0.000000"                   // Police: Portland Large Police Station - Tier 2
+
+Industrial/Building supplies
+
+    // Stonington
+        "6891.517578 42.116329 2362.292236|-10.209223 -0.000000 -0.000000"          // Industrial: Stonington Industrial Area - Tier 1
+        "6977.799805 2.778582 1338.977905|169.134933 -0.000000 -0.000000"           // Industrial: Stonington Docks - Tier 1
+
+    // Camp Eagle
+        "8589.355469 6.097882 3595.224121|-42.659508 -0.000000 -0.000000"           // Industrial: Camp Eagle Docks - Tier 3
+
+    // Hazelands
+        "3883.266357 5.811145 2531.376953|155.153152 -0.000000 -0.000000"            // Industrial: Hazelands Docks - Tier 1
+
+    // Starks Castle
+        "5679.470215 128.966995 2369.972656|-91.354492 -0.000000 -0.000000"          // Industrial: Starks Castle - Tier 1
+    
+    // Devils Eye Castle
+        "6804.749023 44.170059 2931.104980|74.569687 -0.000000 -0.000000"            // Industrial: Devils Eye Castle - Tier 1
+
+    // Mine
+        "11040.855469 32.855484 2288.929688|-179.908981 -0.000000 -0.000000"         // Industrial: Mine - Tier 2
+    
+    // Sheep Island
+        "12941.885742 5.361795 1046.371826|90.281227 -0.000000 -0.000000"            // Industrial: Sheep Island Military Docks - Tier 3
+        "14274.767578 97.676483 6072.013672|-30.186220 -0.000000 -0.000000"          // Industrial: Sheep Island North Castle - Tier 2
+
+    // Prison Island Docks
+        "15627.262695 2.718611 5055.787109|179.051849 -0.000000 -0.000000"           // Industrial: Prison Island Docks - Tier 3
+
+    // Powerplant
+        "4705.796387 20.448063 6993.630371|-27.670565 -0.000000 -0.000000"           // Industrial: Powerplant - Tier 1
+
+    // Westbrook
+        "3418.297119 22.218700 6539.134277|138.526535 -0.000000 -0.000000"           // Industrial: Westbrook Train Yard - Tier 1
+
+    // Pear Plantation
+        "9499.592773 24.287289 7601.204102|25.451942 -0.000000 -0.000000"            // Industrial: Pear Plantation - Tier 1
+
+    // Waldoborough
+        "9246.727539 8.792882 9290.081055|91.619637 -0.000000 -0.000000"             // Industrial: Waldoborough Docks - Tier 1
+
+    // Swamp Bridge
+        "5181.695313 11.334682 9112.375000|-30.404825 -0.000000 -0.000000"           // Industrial: Swamp Bridge - Tier 3
+
+    // Swamp
+        "3853.789551 11.460958 8782.493164|0.000000 -0.000000 -0.000000"             // Industrial: Swamp - Tier 3
+
+    // Old Town
+        "1730.950928 5.640490 9346.393555|-102.403496 -0.000000 -0.000000"           // Industrial: Old Town Shipping Container Yard - Tier 1
+
+    // Woodworking
+        "4511.409668 7.792124 12057.414063|-162.408386 -0.000000 -0.000000"          // Industrial: Woodworking - Tier 1
+
+    // Area 42
+        "13717.341797 2.221673 9536.424805|6.674416 -0.000000 -0.000000"             // Industrial: Area 42 Docks - Tier 3 
+    
+    // East Harbour
+        "11522.085938 5.388667 9798.233398|-125.001282 -0.000000 -0.000000"          // Industrial: East Harbour Docks - Tier 3 
+
+    // Deepwater Island
+        "757.042175 7.324606 13109.772461|-6.621431 -0.000000 -0.000000"             // Industrial: Deepwater Island Docks - Tier 3
+    
+    // Swanisland
+        "506.385498 8.152074 15211.012695|147.863113 -0.000000 -0.000000"            // Industrial: Swanisland Docks - Tier 3
+
+    // Portland
+        "5805.667480 5.894301 14807.184570|-109.507904 -0.000000 -0.000000"          // Industrial: Portland Docks - Tier 1
