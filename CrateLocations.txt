@@ -127,3 +127,59 @@
         "11521.045898 16.481632 10131.584961|-157.858032 -0.000000 -0.000000"   // Medical: East Harbour Hospital - Downstairs - Tier 3
         "11503.164063 20.215687 10134.925781|-68.302002 -0.000000 -0.000000"    // Medical: East Harbour Hospital - First floor - Tier 3
         "11524.033203 29.994160 10130.665039|111.698677 -0.000000 -0.000000"    // Medical: East Harbour Hospital - Roof - Tier 3
+
+// Police Stations
+
+    // Stonington
+        "7012.385742, 12.629501, 1553.635864>, ori=<150.850327, -0.000000, -0.000000"                   // Police: Stonington South Police Station - Tier 1
+        "7090.796875, 52.998863, 1931.950806>, ori=<-90.237343, -0.000000, -0.000000"                   // Police: Stonington North East Large Police Station - Tier 2
+        "6432.273926, 36.210827, 2045.125610>, ori=<97.985321, -0.000000, -0.000000"                    // Police: Stonington North West Police Station - Tier 1
+
+    // Hazelands
+        "4422.970215, 8.904170, 2840.310059>, ori=<45.207001, 0.000000, 0.000000"                       // Police: Hazelands Police Station - Tier 1
+
+    // Airfield
+        "5466.887695, 78.591927, 3880.472900>, ori=<138.367569, -0.000000, -0.000000"                   // Police: Airfield Police Stations - Tier 2
+
+    // Smallville
+        "9780.803711, 9.960922, 4334.539063>, ori=<-46.890400, -0.000000, -0.000000"                    // Police: Smallville Police Station - Tier 1
+
+    // Georgestown
+        "4644.331543, 21.717550, 4404.408691>, ori=<-87.888580, -0.000000, -0.000000"                   // Police: Georgestown Police Station - Tier 1
+ 
+    // Warren Cove
+        "7110.309570, 11.870617, 5445.423828>, ori=<-91.416100, -0.000000, -0.000000"                   // Police: Warren Cove Police Station - Tier 1
+
+    // Westbrook
+        "3270.169189, 28.320704, 6532.169434>, ori=<-164.053970, -0.000000, -0.000000"                  // Police: Westbrook North Large Police Station - Tier 2       
+        "3301.966797, 26.973511, 6245.871582>, ori=<-19.469406, -0.000000, -0.000000"                   // Police: Westbrook South Police Station - Tier 1
+        
+    // Sandy Bay
+        "5396.817871, 10.497776, 7576.722656>, ori=<33.273495, -0.000000, -0.000000"                    // Police: Sandy Bay Large Police Station - Tier 1
+
+    // Eastbrook
+        "10389.401367, 29.448616, 7997.131348>, ori=<51.594299, -0.000000, -0.000000"                   // Police: Eastbrook Police Station - Tier 1
+
+    // Waldoborough
+        "9016.936523, 9.719776, 8823.305664>, ori=<-148.533554, -0.000000, -0.000000"                   // Police: Waldoborough South East Police Station - Tier 1
+        "8343.105469, 13.017581, 8695.459961>, ori=<-179.549469, -0.000000, -0.000000"                  // Police: Waldoborough South West Large Police Station - Tier 2
+
+    // Oldtown
+        "1649.531616, 17.083885, 9024.304688>, ori=<-68.367233, -0.000000, -0.000000"                   // Police: Oldtown East Police Station - Tier 1|
+        "2059.301514, 13.491435, 9084.962891>, ori=<-91.023911, -0.000000, -0.000000"                   // Police: Oldtown West Large Police Station - Tier 2
+
+    // Swamp
+        "3728.126221, 19.225147, 8651.619141>, ori=<-89.507271, -0.000000, -0.000000"                   // Police: Swamp Large Police Station - Tier 3
+
+    // East Harbour
+        "11383.337891, 26.052393, 10123.364258>, ori=<-158.306732, -0.000000, -0.000000"                // Police: East Harbour Large Police Station - Tier 3
+
+    // Rockenheim Circuit
+        "10122.929688, 29.661413, 10947.730469>, ori=<155.934036, -0.000000, -0.000000"                 // Police: Rockenheim Circuit Large Police Station - Tier 1
+
+    // Deepwater Island
+        "507.988129, 14.889484, 12697.219727>, ori=<-93.495644, -0.000000, -0.000000"                   // Police: Deepwater Island North Police Station - Tier 3
+        "781.859192, 55.775024, 12117.439453>, ori=<89.917091, -0.000000, -0.000000"                    // Police: Deepwater Island South Police Station - Tier 3
+
+    // Portland
+        "6102.024902, 13.583655, 14722.836914>, ori=<89.955696, -0.000000, -0.000000"                   // Police: Portland Large Police Station - Tier 2
