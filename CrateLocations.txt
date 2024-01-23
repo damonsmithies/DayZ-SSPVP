@@ -1,5 +1,4 @@
 // Medical
-
      - Medical centres get Tier 1.
      - Medical centres in special places (Area 42 East Harbour) get Tier 3.
      - Hospitals in PVE zones get a chance at Tier 1 and Tier 2.
@@ -129,7 +128,6 @@
         "11524.033203 29.994160 10130.665039|111.698677 -0.000000 -0.000000"    // Medical: East Harbour Hospital - Roof - Tier 3
 
 // Police Stations
-
     // Stonington
         "7012.385742 12.629501 1553.635864|150.850327 -0.000000 -0.000000"                   // Police: Stonington South Police Station - Tier 1
         "7090.796875 52.998863 1931.950806|-90.237343 -0.000000 -0.000000"                   // Police: Stonington North East Large Police Station - Tier 2
@@ -184,8 +182,7 @@
     // Portland
         "6102.024902 13.583655 14722.836914|89.955696 -0.000000 -0.000000"                   // Police: Portland Large Police Station - Tier 2
 
-Industrial/Building supplies
-
+//Industrial/Building supplies
     // Stonington
         "6891.517578 42.116329 2362.292236|-10.209223 -0.000000 -0.000000"          // Industrial: Stonington Industrial Area - Tier 1
         "6977.799805 2.778582 1338.977905|169.134933 -0.000000 -0.000000"           // Industrial: Stonington Docks - Tier 1
@@ -252,7 +249,6 @@ Industrial/Building supplies
         "5805.667480 5.894301 14807.184570|-109.507904 -0.000000 -0.000000"          // Industrial: Portland Docks - Tier 1
 
 // Military
-
     // Camp Wolf
         "5447.042480 7.083671 1053.757080|92.333748 -0.000000 -0.000000"            // Camp Wolf Camo
 
