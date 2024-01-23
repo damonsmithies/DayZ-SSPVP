@@ -1,0 +1,255 @@
+{
+    "version": 9,
+    "locations": [
+      {
+        "className": "Land_KlimaX_T1Door",
+        "location": [
+          2956.51001,
+          22.59,
+          4125.689941
+        ],
+        "dir": [
+          117,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          2968.98,
+          22.6992,
+          4123.89
+        ],
+        "crateDir": [
+          195,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T1Door",
+        "location": [
+          1988.73999,
+          19.1,
+          9029.700195
+        ],
+        "dir": [
+          -137.499985,
+          0.23080000281333923,
+          0.5893999934196472
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          1985.69,
+          19.0514,
+          9027
+        ],
+        "crateDir": [
+          45,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T1Door",
+        "location": [
+          1238.219971,
+          11.99,
+          15659.5
+        ],
+        "dir": [
+          142.499985,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          1239.62,
+          11.922,
+          15657.7
+        ],
+        "crateDir": [
+          -45,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T2Door",
+        "location": [
+          5605.259766,
+          73.8778,
+          3839.929932
+        ],
+        "dir": [
+          -179.999985,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          5607.34,
+          74.0482,
+          3828.06
+        ],
+        "crateDir": [
+          -90,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T2Door",
+        "location": [
+          7185.430176,
+          296.899994,
+          11650.299805
+        ],
+        "dir": [
+          90,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          7186.72,
+          294.073,
+          11647.4
+        ],
+        "crateDir": [
+          90,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T2Door",
+        "location": [
+          4727.080078,
+          4.4,
+          7119.540039
+        ],
+        "dir": [
+          -22.500002,
+          0.07689999788999557,
+          0.04809999838471413
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          4725.95,
+          4.43692,
+          7121.9
+        ],
+        "crateDir": [
+          145,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T2Door",
+        "location": [
+          13110.700195,
+          3.35108,
+          9766.549805
+        ],
+        "dir": [
+          90,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          13113.1,
+          3.2902,
+          9766.42
+        ],
+        "crateDir": [
+          -90,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T2Door",
+        "location": [
+          2294.899902,
+          1.5,
+          13902.700195
+        ],
+        "dir": [
+          -110.5,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          2290.25,
+          13.1202,
+          13897.4
+        ],
+        "crateDir": [
+          90,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T3Door",
+        "location": [
+          3221.620117,
+          4.59,
+          9570.099609
+        ],
+        "dir": [
+          18.499998,
+          0,
+          -2.5
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          3229.68,
+          4.70196,
+          9594.54
+        ],
+        "crateDir": [
+          210,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      },
+      {
+        "className": "Land_KlimaX_T3Door",
+        "location": [
+          8970.589844,
+          3.5,
+          6159.540039
+        ],
+        "dir": [
+          102,
+          0,
+          0
+        ],
+        "autoClose": 60,
+        "crateLocation": [
+          8994.54,
+          3.62722,
+          6154.41
+        ],
+        "crateDir": [
+          -90,
+          0,
+          0
+        ],
+        "closeDelay": 10
+      }
+    ]
+  }
