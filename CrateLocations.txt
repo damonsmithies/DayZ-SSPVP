@@ -1,0 +1,129 @@
+// Medical
+
+     - Medical centres get Tier 1.
+     - Medical centres in special places (Area 42, East Harbour) get Tier 3.
+     - Hospitals in PVE zones get a chance at Tier 1 and Tier 2.
+     - Hospitals in PVP zones get Tier 3.
+     - Hospitals in special places (Deepwater Island, East Harbour) get Tier 3.
+     - Medical Tents in PVE zones get Tier 2.
+     - Medical Tents in special places (Sheep Island, Sheep Island North, Prison Island, Area 42, East Harbour) get Tier 3.
+     - Medical Tents in PVP zones get Tier 3.
+
+    // Stonington
+        "6790.189941 3.280000 1532.750000|155.499985 0.000000 0.000000"         // Medical: Stonington Hospital South - Downstairs - Tier 1
+        "6775.689941 7.051590 1522.260010|-114.269997 0.000000 0.000000"        // Medical: Stonington Hospital South - First floor - Tier 2
+        "6793.185547 16.777292 1534.545288|65.296883 0.000000 0.000000"         // Medical: Stonington Hospital South - Roof - Tier 2
+        "6947.421875 38.943539 2072.474121|179.933899 0.000000 0.000000"        // Medical: Stonington Hospital North - Downstairs - Tier 1
+        "6929.586426 42.680626 2068.966553|-90.864059 -0.000000 -0.000000"      // Medical: Stonington Hospital North - First floor - Tier 2
+        "6950.594727 52.451347 2073.314941|90.329147 -0.000000 -0.000000"       // Medical: Stonington Hospital North - Roof - Tier 2
+
+    // Scouts camp
+        "5035.840820 4.556666 2123.518066|-27.681746 -0.000000 -0.000000"       // Medical: Scouts Camp Medical Centre - Storage Room - Tier 1
+        "5029.057617 4.538933 2118.137451|-118.084198 -0.000000 -0.000000"      // Medical: Scouts Camp Medical Centre - Office - Tier 1
+
+    // Paris Island`
+        "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"      // Medical: Paris Island Medical Tent 1 - Tier 3
+        "2709.064453 22.484972 3619.887207|-44.999939 0.000000 0.000000"        // Medical: Paris Island Medical Tent 2 - Tier 3
+        "2696.422119 22.490911 3607.232178|-44.999939 0.000000 0.000000"        // Medical: Paris Island Medical Tent 3 - Tier 3
+        "3133.035645 22.568983 4208.085938|115.110718 0.000000 0.000000"        // Medical: Paris Island Hospital - Downstairs - Tier 3
+        "3129.166748 26.325783 4190.200195|-153.965424 0.000000 0.000000"       // Medical: Paris Island Hospital - First floor - Tier 3
+        "3134.159424 36.097179 4210.962891|24.125019 0.000000 0.000000"         // Medical: Paris Island Hospital - Roof - Tier 3
+
+    // Georgestown
+        "4659.940918 20.373806 4504.714844|94.126678 0.000000 0.000000"         // Medical: Georgestown Medical Centre - Storage Room - Tier 1
+        "4659.409668 20.358732 4513.260254|3.500597 0.000000 0.000000"          // Medical: Georgestown Medical Centre - Office - Tier 1
+
+    // Sheep Island
+        "14097.440430 137.572968 2620.024170|91.799957 0.000000 -0.000000"      // Medical: Sheep Island Crater Large Medical Tent - Tier 3
+        "14120.477539 137.531769 2644.806641|53.480934 0.000000 -0.000000"      // Medical: Sheep Island Crater Small Medical Tent - Tier 3
+
+    // Oceanville
+        "10235.474609 42.832153 5006.337402|-81.663246 -0.000000 -0.000000"     // Medical: Oceanville Medical Centre - Storage Room - Tier 1
+        "10235.829102 42.686069 4997.598633|-173.807602 -0.000000 -0.000000"    // Medical: Oceanville Medical Centre - Office - Tier 1
+
+    // Prison Island
+        "15810.419922 22.297523 5090.560059|78.196404 -0.000000 -0.000000"      // Medical: Prison Island Small Medical Tent 1 - Tier 3
+        "15749.600586 40.226398 4780.509277|95.370453 -0.000000 -0.000000"      // Medical: Prison Island Hospital - Downstairs - Tier 3
+        "15751.596680 43.944370 4762.685547|-174.802460 -0.000000 -0.000000"    // Medical: Prison Island Hospital - First floor - Tier 3
+        "15752.477539 50.878239 4772.437988|-173.938400 -0.000000 -0.000000"    // Medical: Prison Island Hospital - Roof - Tier 3
+        "15786.446289 16.547384 4442.466309|-66.973831 -0.000000 -0.000000"     // Medical: Prison Island Small Medical Tent 2- Tier 3
+
+    // Warren Cove
+        "6958.507324 31.615871 5828.213867|64.736458 0.000000 -0.000000"        // Medical: Warren Cove Medical Centre - Storage Room - Tier 1
+        "6953.537109 31.597212 5835.528320|-24.456551 0.000000 -0.000000"       // Medical: Warren Cove Medical Centre - Office - Tier 1
+
+
+    // Sunset Cross
+        "6382.999023 15.830716 6184.308594|55.704720 -0.000000 -0.000000"       // Medical: Sunset Cross Medical Centre - Storage Room - Tier 1
+        "6376.867676 15.828746 6190.411621|-35.135647 -0.000000 -0.000000"      // Medical: Sunset Cross Medical Centre - Office - Tier 1
+
+    // Westbrook
+        "3307.370117 20.446314 6369.606934|65.672440 -0.000000 -0.000000"       // Medical: Westbrook Medical Tent 1 - Tier 2
+        "3291.242188 20.584761 6376.939453|162.360535 -0.000000 -0.000000"      // Medical: Westbrook Hospital - Downstairs - Tier 1
+        "3275.665771 24.320988 6367.921387|-107.085808 -0.000000 -0.000000"     // Medical: Westbrook Hospital - First floor - Tier 2
+        "3294.421631 34.088085 6377.744141|71.335602 -0.000000 -0.000000"       // Medical: Westbrook Hospital - Roof - Tier 2
+        "3279.923828 20.439365 6512.945801|109.723709 -0.000000 -0.000000"      // Medical: Westbrook Medical Tent 2 - Tier 2
+
+    // Powerplant
+        "4564.244141 20.567535 6990.892090|66.001457 -0.000000 -0.000000"       // Medical: Powerplant Hospital - Downstairs - Tier 1
+        "4574.859375 24.307423 6976.286621|158.204391 -0.000000 -0.000000"      // Medical: Powerplant Hospital - First floor - Tier 2
+        "4562.754395 34.105434 6993.796387|-26.590246 -0.000000 -0.000000"      // Medical: Powerplant Hospital - Roof - Tier 2
+
+
+    // Sandy Bay
+        "5378.417969 2.755820 7538.533691|-150.839355 -0.000000 -0.000000"      // Medical: Sandy Bay Hospital - Downstairs - Tier 1
+        "5361.320313 6.491888 7543.344238|-63.059944 -0.000000 -0.000000"       // Medical: Sandy Bay Hospital - First floor - Tier 2
+        "5381.426758 16.267775 7536.912598|118.065453 -0.000000 -0.000000"      // Medical: Sandy Bay Hospital - Roof - Tier 2
+
+
+    // Sheep Island North
+        "12549.235352 1.938403 7638.286133|114.721069 -0.000000 -0.000000"      // Medical: Sheep Island North Medical Tent - Tier 3
+
+    // Old Town
+        "1863.905151 9.860774 9108.837891|121.206932 -0.000000 -0.000000"       // Medical: Old Town Medical Centre - Storage Room - Tier 1
+        "1867.267456 9.866038 9116.808594|32.514248 -0.000000 -0.000000"        // Medical: Old Town Medical Centre - Office - Tier 1
+
+    // Waldoborough
+        "8303.498047 5.960448 9163.538086|128.321533 -0.000000 -0.000000"       // Medical: Waldoborough Medical Centre - Storage Room - Tier 1
+        "8307.813477 5.960738 9171.184570|39.987206 -0.000000 -0.000000"        // Medical: Waldoborough Medical Centre - Office - Tier 1
+        "8272.220703 5.128774 9159.600586|-138.229874 -0.000000 -0.000000"      // Medical: Waldoborough Medical Tent 1 - Tier 2
+        "8272.441406 5.129783 9184.578125|-51.981297 -0.000000 -0.000000"       // Medical: Waldoborough Medical Tent 2 - Tier 2
+        "8297.484375 5.129219 9188.985352|39.746082 -0.000000 -0.000000"        // Medical: Waldoborough Medical Tent 3 - Tier 3
+        "9058.315430 5.284675 9338.289063|0.000000 -0.000000 -0.000000"         // Medical: Waldoborough Hospital - Downstairs - Tier 1
+        "9076.049805 9.005790 9341.608398|91.288292 -0.000000 -0.000000"        // Medical: Waldoborough Hospital - First floor - Tier 2
+        "9055.043945 18.790594 9338.294922|-90.062630 -0.000000 -0.000000"      // Medical: Waldoborough Hospital - Roof - Tier 2
+
+    // Rockenheim Circuit
+        "9865.054688 17.956182 10801.589844|-22.467402 -0.000000 -0.000000"     // Medical: Rockenheim Circuit Hospital - First floor - Tier 2
+        "9876.829102 27.731522 10783.518555|-21.699266 -0.000000 -0.000000"     // Medical: Rockenheim Circuit Hospital - Roof - Tier 2
+
+    // Deepwater Island
+        "1055.091187 9.494514 12727.170898|-104.284775 -0.000000 -0.000000"     // Medical: Deepwater Island Hospital - Downstairs - Tier 3
+        "1047.306030 13.223271 12743.550781|-15.252024 -0.000000 -0.000000"     // Medical: Deepwater Island Hospital - First floor - Tier 3
+        "1055.950562 23.002596 12724.184570|167.741089 -0.000000 -0.000000"     // Medical: Deepwater Island Hospital - Roof - Tier 3
+
+    // Portland
+        "6074.234375 6.046647 14556.880859|0.000000 -0.000000 -0.000000"        // Medical: Portland Hospital - Downstairs - Tier 1
+        "6091.983398 9.777903 14560.512695|89.876656 -0.000000 -0.000000"       // Medical: Portland Hospital - First floor - Tier 2
+        "6071.049805 19.551579 14556.766602|-90.443893 -0.000000 -0.000000"     // Medical: Portland Hospital - Roof - Tier 2
+
+    // KMUC
+        "7168.982422 538.751160 11639.111328|90.036346 -0.000000 -0.000000"    // Medical: KMUC Hospital - Downstairs - Tier 3
+        "7172.514648 542.477295 11621.715820|179.766724 -0.000000 -0.000000"   // Medical: KMUC Hospital - First floor - Tier 3
+        "7174.055664 549.439026 11642.070313|88.708969 -0.000000 -0.000000"    // Medical: KMUC Hospital - Roof - Tier 3
+
+    // Area 42 (not done them all as there is 6 and this will dilute Tier 3)
+        "13153.646484 12.942145 9904.987305|0.000000 -0.000000 -0.000000"       // Medical: Area 42 Medical Tent 1 - Tier 3
+        "13131.947266 12.936746 9905.221680|0.000000 -0.000000 -0.000000"       // Medical: Area 42 Medical Tent 2 - Tier 3
+        "13137.490234 12.940416 9861.169922|-176.713028 -0.000000 -0.000000"    // Medical: Area 42 Medical Tent 3 - Tier 3
+
+    // East Harbour
+        "11016.576172 6.213975 10339.612305|26.248262 -0.000000 -0.000000"      // Medical: East Harbour Medical Centre - Storage Room - Tier 1
+        "11008.367188 6.221000 10342.279297|-64.501411 -0.000000 -0.000000"     // Medical: East Harbour Medical Centre - Office - Tier 1
+        "10987.083984 5.376385 10342.469727|25.529081 -0.000000 -0.000000"      // Medical: East Harbour Medical Tent 1 - Tier 3
+        "11051.390625 5.386684 10311.512695|24.743311 -0.000000 -0.000000"      // Medical: East Harbour Medical Tent 2 - Tier 3
+        "11006.067383 5.377591 10298.048828|-153.351639 -0.000000 -0.000000"    // Medical: East Harbour Medical Tent 3 - Tier 3
+        "10971.523438 5.382063 10269.708984|-155.836594 -0.000000 -0.000000"    // Medical: East Harbour Medical Tent 4 - Tier 3
+        "11521.045898 16.481632 10131.584961|-157.858032 -0.000000 -0.000000"   // Medical: East Harbour Hospital - Downstairs - Tier 3
+        "11503.164063 20.215687 10134.925781|-68.302002 -0.000000 -0.000000"    // Medical: East Harbour Hospital - First floor - Tier 3
+        "11524.033203 29.994160 10130.665039|111.698677 -0.000000 -0.000000"    // Medical: East Harbour Hospital - Roof - Tier 3
