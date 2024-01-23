@@ -125,7 +125,8 @@
             "lootrandomize": 0.1,
             "light": 1,
             "loot": [
-                "LC_Table_MedicalTier3"
+              "LC_Table_MedicalTier3",
+                
             ]
         }
     ],
