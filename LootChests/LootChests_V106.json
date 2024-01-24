@@ -186,7 +186,7 @@
             "pos": [
                 "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
             ],
-            "keyclass": "CJ_Key1",
+            "keyclass": "CJ_Key3",
             "openable": 2,
             "chest": [
                 "CJ_LootChest_Green_Small"
@@ -204,7 +204,7 @@
             "pos": [
                 "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
             ],
-            "keyclass": "CJ_Key1",
+            "keyclass": "CJ_Key3",
             "openable": 1,
             "chest": [
                 "CJ_LootChest_Green_Small"
@@ -222,7 +222,7 @@
             "pos": [
                 "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
             ],
-            "keyclass": "CJ_Key1",
+            "keyclass": "CJ_Key3",
             "openable": 0,
             "chest": [
                 "CJ_LootChest_Green_Small"
