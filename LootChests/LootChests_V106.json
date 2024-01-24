@@ -232,6 +232,59 @@
             "loot": [
               "LC_Table_MedicalTier3"
             ]
+        },
+        {
+            "name": "Military_Tier1",
+            "number": 2,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Green_Small"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+              "LC_Table_MedicalTier3"
+                
+            ]
+        },
+        {
+            "name": "Military_Tier2",
+            "number": 2,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Green_Small"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+              "LC_Table_MedicalTier3"
+                
+            ]
+        },
+        {
+            "name": "Military_Tier3",
+            "number": 2,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Green_Small"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+              "LC_Table_MedicalTier3"
+            ]
         }
     ],
     "LCPredefinedWeapons": [
