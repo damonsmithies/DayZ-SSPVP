@@ -15,14 +15,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          2968.98,
-          22.6992,
-          4123.89
         ],
         "crateDir": [
-          195,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -40,14 +34,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          1985.69,
-          19.0514,
-          9027
         ],
         "crateDir": [
-          45,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -65,14 +53,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          1239.62,
-          11.922,
-          15657.7
         ],
         "crateDir": [
-          -45,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -90,14 +72,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          5607.34,
-          74.0482,
-          3828.06
         ],
         "crateDir": [
-          -90,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -115,14 +91,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          7186.72,
-          294.073,
-          11647.4
         ],
         "crateDir": [
-          90,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -140,14 +110,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          4725.95,
-          4.43692,
-          7121.9
         ],
         "crateDir": [
-          145,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -165,14 +129,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          13113.1,
-          3.2902,
-          9766.42
         ],
         "crateDir": [
-          -90,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -190,14 +148,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          2290.25,
-          13.1202,
-          13897.4
         ],
         "crateDir": [
-          90,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -215,14 +167,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          3229.68,
-          4.70196,
-          9594.54
         ],
         "crateDir": [
-          210,
-          0,
-          0
         ],
         "closeDelay": 10
       },
@@ -240,14 +186,8 @@
         ],
         "autoClose": 60,
         "crateLocation": [
-          8994.54,
-          3.62722,
-          6154.41
         ],
         "crateDir": [
-          -90,
-          0,
-          0
         ],
         "closeDelay": 10
       }

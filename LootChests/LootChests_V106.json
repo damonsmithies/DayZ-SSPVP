@@ -206,6 +206,35 @@
                 "BandageDressing",
                 "InjectorEpipen"
             ]
+        },
+        {
+            "name": "LC_Table_MilitaryTier1",
+            "Loot": [
+                "BloodBagEmpty"
+            ]
+        },
+        {
+            "name": "LC_Table_MilitaryTier2",
+            "Loot": [
+                "BloodBagEmpty",
+                "BandageDressing"
+            ]
+        },
+        {
+            "name": "LC_Table_MilitaryTier3",
+            "Loot": [
+                "BloodBagEmpty",
+                "BandageDressing",
+                "InjectorEpipen"
+            ]
+        },
+        {
+            "name": "LC_Table_Secret",
+            "Loot": [
+                "BloodBagEmpty",
+                "BandageDressing",
+                "InjectorEpipen"
+            ]
         }
     ]
 }
