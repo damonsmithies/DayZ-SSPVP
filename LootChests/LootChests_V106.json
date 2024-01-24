@@ -69,8 +69,8 @@
                 "6091.983398 9.777903 14560.512695|89.876656 -0.000000 -0.000000",
                 "6071.049805 19.551579 14556.766602|-90.443893 -0.000000 -0.000000"
             ],
-            "keyclass": "CJ_Key7",
-            "openable": 2,
+            "keyclass": "CJ_Key8",
+            "openable": 1,
             "chest": [
                 "CJ_LootChest_Green_Small"
             ],
@@ -115,7 +115,7 @@
                 "11503.164063 20.215687 10134.925781|-68.302002 -0.000000 -0.000000",
                 "11524.033203 29.994160 10130.665039|111.698677 -0.000000 -0.000000"
             ],
-            "keyclass": "CJ_Key7",
+            "keyclass": "CJ_Key8",
             "openable": 0,
             "chest": [
                 "CJ_LootChest_Green_Small"
@@ -123,8 +123,61 @@
             "lootrandomize": 0.1,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3",
+              "LC_Table_MedicalTier3"
                 
+            ]
+        },
+        {
+            "name": "Police_Tier1",
+            "number": 2,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Green_Small"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+              "LC_Table_MedicalTier3"
+                
+            ]
+        },
+        {
+            "name": "Police_Tier2",
+            "number": 2,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Green_Small"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+              "LC_Table_MedicalTier3"
+                
+            ]
+        },
+        {
+            "name": "Police_Tier3",
+            "number": 2,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Green_Small"
+            ],
+            "lootrandomize": 0.1,
+            "light": 1,
+            "loot": [
+              "LC_Table_MedicalTier3"
             ]
         }
     ],
