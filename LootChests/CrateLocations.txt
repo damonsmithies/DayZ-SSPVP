@@ -327,3 +327,118 @@
 
 // Unknown north island
         "9668.337891 54.037548 15171.297852|-65.094872 -0.000000 -0.000000"         // Unknown North Island - Military Building
+
+// Secret
+    // Greenville
+            "4220.459961 14.073400 1492.599976|0.000000 0.000000 0.000000"      // Greenville - Forest West
+
+    // Stonington
+            "6709.695801 38.022221 2650.502930|-99.424965 0.000000 0.000000"    // Stonington - Forest North
+
+    // Unnamed Island
+            "9790.339844 30.575800 1257.060059|-169.605988 0.000000 0.000000"   // Unnamed Island - Forest Central
+
+    // Mine Island
+            "11272.000000 59.270401 3119.600098|0.000000 0.000000 0.000000"     // Mine Island - Forest North East
+
+    // Sheep Island
+            "12379.700195 35.749401 1554.239990|0.000000 0.000000 0.000000"     // Sheep Island - Forest South West
+            "14634.400391 11.574400 3624.199951|-77.411789 0.000000 0.000000"   // Sheep Island - Forest North East
+
+    // Sheep Island North
+            "13295.500000 130.300003 5743.759766|-115.297997 0.000000 0.000000" // Sheep Island North - Forest South
+
+    // Camp Eagle
+            "8956.849609 66.887001 3994.060059|100.014992 0.000000 0.000000"    // Camp Eagle - Forest North
+
+    // Prison
+            "5135.450195 14.487800 615.817017|161.808990 0.000000 0.000000"     // Prison - Forest West
+
+    // Paris Island
+            "2559.399902 22.556101 3618.290039|-31.898600 0.000000 0.000000"    // Paris Island - Forest South West
+            "2732.050049 32.425499 5039.229980|138.369003 0.000000 0.000000"    // Paris Island - Forest North West
+
+    // Airfield
+            "4877.520020 120.814003 3759.729980|-70.262390 0.000000 0.000000"   // Airfield - Forest West
+
+    // Georgestown
+            "5807.229980 37.687801 4787.879883|-39.270100 0.000000 0.000000"    //Georgestown - Forest East
+
+    // Groots Hill
+            "7415.779785 46.000900 4964.430176|-19.975800 0.000000 0.000000"    // Groots Hill - Forest North
+
+    // Scouts Camp
+            "8391.849609 12.628800 5362.350098|31.494499 0.000000 0.000000"     // Scouts Camp - Forest North West
+
+    // Oceanville
+            "9939.519531 69.832397 4863.790039|-56.724697 0.000000 0.000000"    // Oceanville - Forest West
+
+    // Sunset Cross
+            "6209.319824 92.560799 5936.720215|0.000000 0.000000 0.000000"      // Sunset Cross - Forest South West
+
+    // Powerplant
+            "4718.990234 77.225197 6669.649902|0.000000 0.000000 0.000000"      // Powerplant - Forest South
+
+    // Oldfield
+            "6287.250000 72.378998 7476.720215|0.000000 0.000000 0.000000"      // Oldfield - Forest North
+
+    // Duskar
+            "7682.930176 2.823370 7932.379883|-85.502083 0.000000 0.000000"     // Duskar - Forest South West
+
+    // Fairfield
+            "9773.009766 34.246300 6710.759766|112.898003 0.000000 0.000000"    // Fairfield - Forest South West
+
+    // Area 42
+            "13121.700195 14.119900 9949.750000|-74.408302 0.000000 0.000000"   // Area 42 - Forest North West
+
+    // East Harbour
+            "10954.599609 5.379910 10265.400391|-167.419983 0.000000 0.000000"  // East Harbour - Forest West
+
+    // Windmill Island
+            "1733.420044 10.535100 6589.509766|53.511696 0.000000 0.000000"     // Windmill Island - Forest West
+
+    // Sandy Bay
+            "5729.839844 2.450740 7798.209961|148.427979 0.000000 0.000000"     // Sandy Bay - Forest East
+
+    // Swamp
+            "3633.770020 11.439600 8021.759766|74.897888 0.000000 0.000000"     // Swamp - Forest South
+            "3946.449951 11.568200 9390.790039|-50.785301 0.000000 0.000000"    // Swamp - Forest North
+
+    // Oldtown
+            "2035.000000 9.322600 9242.469727|-120.382996 0.000000 0.000000"    // Oldtown - Forest North
+
+    // Mountainville
+            "6916.959961 131.910995 9475.660156|-90.292892 0.000000 0.000000"   // Mountainville - Forest North
+
+    // Waldobourough
+            "8404.129883 23.312099 9539.080078|0.000000 0.000000 0.000000"      // Waldobourough - Forest North
+
+    // Woodworking
+            "4469.930176 6.671600 11346.000000|-153.835983 0.000000 0.000000"   // Woodworking - Forest South
+
+    // Rockenheim
+            "9432.759766 7.130970 10960.900391|129.968979 0.000000 0.000000"    // Rockenheim - Forest West
+
+    // Bayville
+            "9454.980469 32.164799 12659.400391|-72.822090 0.000000 0.000000"   // Bayville - Forest North
+
+    // Portland
+            "6580.720215 40.817501 14271.299805|-113.481995 0.000000 0.000000"  // Portland - Forest East
+
+    // Archipelago Island
+            "2705.070068 11.055700 13596.000000|80.493195 0.000000 0.000000"    // Archipelago Island - Forest South
+
+    // Deepwater Island
+            "1973.800049 15.091800 12197.700195|-88.903191 0.000000 0.000000"   // Deepwater Island West
+
+    // Swanisland South Island
+            "1150.849976 34.242100 12484.200195|0.000000 0.000000 0.000000"     // Swanisland South Island - Forest North East
+
+    // Swanisland
+            "1355.630005 11.820000 15203.400391|42.615601 0.000000 0.000000"    // Swanisland - Forest Central
+
+    // Unknown North Island
+            "10062.700195 49.171101 15056.400391|0.000000 0.000000 0.000000"    // Unknown North Island - Forest Central
+
+    // Prison Island
+            "15840.000000 22.286100 5191.500000|60.339397 0.000000 0.000000"    // Prison Island North
