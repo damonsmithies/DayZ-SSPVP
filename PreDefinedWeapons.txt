@@ -1,0 +1,83 @@
+Saint Victor 5.56
+    SNAFU_Saint556_Gun - Gun
+
+    5.56 100RND BMAG - Mag
+        SNAFU_BMAG556_BLACK
+
+    Tango6T Black 6X - Scope
+        SNAFU_Tango6T_Black
+
+    MDAR Sup BK - Supressor
+        SNAFUMDAR_Supp_Black
+
+    M4 MOE Stock - Stock
+        SNAF_MOE_STOCK
+
+    AR/M4 10in Rail HG - Handguard
+        SNAFU_MK10
+
+    CQR Foregrip - Grip
+        SANFU_FGCR_Grip
+
+    Tac Pistol Grip PK - Receiver Grip
+        SNAFU_TACGripColtA2_Black
+
+    Pictiny Light - Flashlight
+        SNAFUUniversalLight
+
+    PEQ1 Laser - Laser
+        SNAFU_PEQ1_Laser
+
+Honey Badger
+    SNAFUHoneyBadger_Tan - Gun
+
+    300AC 100RND BMAG TAN - Mag
+        SNAFU_BMAG300_Tan
+
+    Tango6T Tan 6X - Scope
+        SNAFU_Tango6T_Tan
+
+RSASS DKMC
+    SNAFURSASS_dkmc_GUN - Gun
+
+    SNAFU RSASS Mag - Mag
+        SNAFURSASS_Mag
+
+    Tango6T Wood 6X - Scope
+        SNAFU_Tango6T_Wood
+
+    Universal MK3 Green Supp - Supressor
+        SNAFUGevar_Suppressor_Green
+    
+    KAC Foregrip
+        SNAFU_FGKAC_Grip - Grip
+
+    Universal Light - Flashlight
+     SNAFUUniversalLight
+
+AWM 338
+    SNAFU_AWM_GUN - Gun
+
+    AWM Mag
+        SNAFU_AWM_Mag
+
+    338 Suppressor
+        SNAFUKivaari_338_Supp
+    
+    SNAFU Kahles 9x - Scope
+        SNAFU_Kahles
+
+Kivaari Tan
+    SNAFUKivaari_Tan_GUN - Gun
+
+    Kivaari 25rnd Mag
+        SNAFU_Kivaari_25rnd Mag
+
+    Tango6T Tan 6X - Scope
+        SNAFU_Tango6T_Tan
+
+    338 Suppressor
+        SNAFUKivaari_338_Supp
+
+    Old SR25 Bipod  
+        SNAFU_Bipod
