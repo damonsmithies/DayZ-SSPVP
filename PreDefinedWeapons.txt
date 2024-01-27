@@ -37,6 +37,9 @@ Honey Badger
     Tango6T Tan 6X - Scope
         SNAFU_Tango6T_Tan
 
+    AFG Grip Tan - Grip
+        SNAFU_AFG_02_Tan
+
 RSASS DKMC
     SNAFURSASS_dkmc_GUN - Gun
 

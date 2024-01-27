@@ -419,16 +419,62 @@
     ],
     "LCPredefinedWeapons": [
         {
-            "defname": "LC_predefined_Test",
-            "weapon": "AK101_Green",
-            "magazine": "Mag_AK101_30Rnd_Green",
+            "defname": "LC_predefined_Saint556",
+            "weapon": "SNAFU_Saint556_Gun",
+            "magazine": "SNAFU_BMAG556_BLACK",
             "attachments": [
-                "AK_FoldingBttstck_Green",
-                "AK_RailHndgrd_Green",
-                "UniversalLight",
-                "AK_Suppressor"
+                "SNAFUMDAR_Supp_Black",
+                "SNAF_MOE_STOCK",
+                "SNAFU_MK10",
+                "SANFU_FGCR_Grip",
+                "SNAFU_TACGripColtA2_Black",
+                "SNAFUUniversalLight",
+                "SNAFU_PEQ1_Laser"
             ],
-            "optic": "PSO1Optic",
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_HoneyBadger",
+            "weapon": "SNAFUHoneyBadger_Tan",
+            "magazine": "SNAFU_BMAG300_Tan",
+            "attachments": [
+                "SNAFU_AFG_02_Tan"
+            ],
+            "optic": "SNAFU_Tango6T_Tan",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_RSASSDKMC",
+            "weapon": "SNAFURSASS_dkmc_GUN",
+            "magazine": "SNAFURSASS_Mag",
+            "attachments": [
+                "SNAFUGevar_Suppressor_Green",
+                "SNAFU_FGKAC_Grip",
+                "SNAFUUniversalLight"
+            ],
+            "optic": "SNAFU_Tango6T_Wood",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AWM338",
+            "weapon": "SNAFU_AWM_GUN",
+            "magazine": "SNAFU_AWM_Mag",
+            "attachments": [
+                "SNAFUKivaari_338_Supp"
+            ],
+            "optic": "SNAFU_Kahles",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Kivaari",
+            "weapon": "SNAFUKivaari_Tan_GUN",
+            "magazine": "SNAFU_Kivaari_25rnd",
+            "attachments": [
+                "SNAFUKivaari_338_Supp",
+                "SNAFU_Bipod"
+            ],
+            "optic": "SNAFU_Tango6T_Tan",
             "opticbattery": 1
         }
     ],
