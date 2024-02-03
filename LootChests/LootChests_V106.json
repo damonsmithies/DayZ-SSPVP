@@ -6,7 +6,7 @@
     "LootChestsLocations": [
         {
             "name": "Medical_Tier1",
-            "number": 3,
+            "number": 15,
             "pos": [
                 "6790.189941 3.280000 1532.750000|155.499985 0.000000 0.000000",
                 "6947.421875 38.943539 2072.474121|179.933899 0.000000 0.000000",
@@ -32,20 +32,57 @@
                 "11016.576172 6.213975 10339.612305|26.248262 -0.000000 -0.000000",
                 "11008.367188 6.221000 10342.279297|-64.501411 -0.000000 -0.000000"
             ],
-            "keyclass": "",
+            "keyclass": "CJ_Key8",
             "openable": 2,
             "chest": [
                 "CJ_LootChest_Green_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-                "LC_Table_MedicalTier1"
+                "SalveFinalgon|0.05",
+                "TabletsParacetamol|0.05",
+                "TabletsAmibaktam|0.05",
+                "TabletsTrihopol|0.05",
+                "TabletsCyprolet|0.05",
+                "TabletsNoopept|0.05",
+                "TabletsAnalgin|0.05",
+                "TabletsCytramon|0.05",
+                "TabletsNurofen|0.05",
+                "TabletsMovalis|0.05",
+                "TabletsPentalgin|0.05",
+                "TabletsParacetamol|0.05",
+                "TabletsAertal|0.05",
+                "TabletsNimesil|0.05",
+                "TabletsNaiz|0.05",
+                "AmpouleKetorol|0.05",
+                "InjectorKetorol|0.05",
+                "TabletsCharcoal|0.05",
+                "TabletsMezimForte|0.05",
+                "TabletsZerukal|0.05",
+                "TabletsEnterofuril|0.05",
+                "TabletsFtalazol|0.05",
+                "TabletsSalofalk|0.05",
+                "TabletsNifuroksazid|0.05",
+                "TabletsKarbopekt|0.05",
+                "TabletsPolisorb|0.05",
+                "TabletsMesalazin|0.05",
+                "TabletsErsefuril|0.05",
+                "TabletsActaparoxetine|0.05",
+                "TabletsAgteminol|0.05",
+                "TabletsAdepress|0.05",
+                "TabletsVenlafaxine|0.05",
+                "TabletsIrovit|0.05",
+                "TabletsTardiferon|0.05",
+                "TabletsHeferol|0.05",
+                "TabletsSorbiferDurulis|0.05",
+                "TabletsVikasol|0.05",
+                "TabletsDycinon|0.05"
             ]
         },
         {
             "name": "Medical_Tier2",
-            "number": 3,
+            "number": 10,
             "pos": [
                 "6775.689941 7.051590 1522.260010|-114.269997 0.000000 0.000000",
                 "6793.185547 16.777292 1534.545288|65.296883 0.000000 0.000000",
@@ -74,15 +111,47 @@
             "chest": [
                 "CJ_LootChest_Green_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-                "LC_Table_MedicalTier2"
+                "SalveViprosal|0.05",
+                "TabletsIbuprofen|0.05",
+                "TabletsAmoksivan|0.05",
+                "TabletsAmpicylin|0.05",
+                "TabletsPiperacylin|0.05",
+                "TabletsAmoksiklav|0.05",
+                "AmpouleGrimipenem|0.05",
+                "AmpouleZeftriaxon|0.05",
+                "AmpouleCylaspen|0.05",
+                "AmpouleErytromicyn|0.05",
+                "AmpouleKetorol|0.05",
+                "AmpouleDiklofenak|0.05",
+                "AmpoulePropanidid|0.05",
+                "AmpouleIrineks|0.05",
+                "AmpouleGexobarbital|0.05",
+                "AmpouleNovocain|0.05",
+                "AmpouleNimesulid|0.05",
+                "AmpouleKetoprofen|0.05",
+                "AmpouleMetoclopramid|0.05",
+                "AmpouleZerukal|0.05",
+                "AmpouleHeptral|0.05",
+                "AmpouleMetralindol|0.05",
+                "AmpouleActaparoxetine|0.05",
+                "AmpouleAmitriptyline|0.05",
+                "AmpouleActovegin|0.05",
+                "AmpouleMeksidol|0.05",
+                "AmpouleNeiroks|0.05",
+                "AmpoulePerftoran|0.05",
+                "AmpouleMaltofer|0.05",
+                "AmpouleErytropoenin|0.05",
+                "AmpouleNonacogAlpha|0.05",
+                "AmpouleAminokaprolSulfat|0.05",
+                "AmpouleEtamzilat|0.05"
             ]
         },
         {
             "name": "Medical_Tier3",
-            "number": 2,
+            "number": 5,
             "pos": [
                 "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000",
                 "2709.064453 22.484972 3619.887207|-44.999939 0.000000 0.000000",
@@ -120,16 +189,29 @@
             "chest": [
                 "CJ_LootChest_Green_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+                "SalveKapsikam|0.05",
+                "AmpouleFlemoclav|0.05",
+                "AmpouleOcsacylin|0.05",
+                "AmpouleImipenem|0.05",
+                "AmpouleAmoksivan|0.05",
+                "InjectorAmoksivan|0.05",
+                "AmpouleKetamin|0.05",
+                "AmpouleTiopental|0.05",
+                "AmpoulePropofol|0.05",
+                "AmpouleSodiumOxybutirate|0.05",
+                "InjectorTopoizomeraza|0.05",
+                "AmpouleZivirol|0.05",
+                "InjectorZivirol|0.05",
+                "InjectorNeiroks|0.05",
+                "InjectorErytropoenin|0.05"
             ]
         },
         {
             "name": "Police_Tier1",
-            "number": 2,
+            "number": 12,
             "pos": [
                 "7012.385742 12.629501 1553.635864|150.850327 -0.000000 -0.000000",
                 "6432.273926 36.210827 2045.125610|97.985321 -0.000000 -0.000000",
@@ -147,18 +229,49 @@
             "keyclass": "CJ_Key1",
             "openable": 2,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Tan_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+                "AmmoBox_00buck_10rnd|0.05",
+                "AmmoBox_12gaSlug_10Rnd|0.05",
+                "AmmoBox_380_35rnd|0.05",
+                "AmmoBox_45ACP_25rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_308WinTracer_20Rnd|0.025",
+                "AmmoBox_308WinTracer_20Rnd|0.025",
+                "AmmoBox_308Win_20Rnd|0.025",
+                "AmmoBox_308Win_20Rnd|0.025",
+                "AmmoBox_545x39Tracer_20Rnd|0.025",
+                "AmmoBox_545x39Tracer_20Rnd|0.025",
+                "AmmoBox_545x39_20Rnd|0.025",
+                "AmmoBox_545x39_20Rnd|0.025",
+                "AmmoBox_556x45Tracer_20Rnd|0.025",
+                "AmmoBox_556x45Tracer_20Rnd|0.025",
+                "AmmoBox_556x45_20Rnd|0.025",
+                "AmmoBox_556x45_20Rnd|0.025",
+                "AmmoBox_762x39Tracer_20Rnd|0.025",
+                "AmmoBox_762x39Tracer_20Rnd|0.025",
+                "AmmoBox_762x39_20Rnd|0.025",
+                "AmmoBox_762x39_20Rnd|0.025",
+                "AmmoBox_762x54Tracer_20Rnd|0.025",
+                "AmmoBox_762x54Tracer_20Rnd|0.025",
+                "UKAssVest_Camo",
+                "UKAssVest_Khaki",
+                "FlashGrenade",
+                "LC_predefined_SN_Glock19",
+                "LC_predefined_SN_Mp443",
+                "LC_predefined_SNAFU_PDW_9mm",
+                "LC_predefined_SN_USP"
             ]
         },
         {
             "name": "Police_Tier2",
-            "number": 2,
+            "number": 6,
             "pos": [
                 "7090.796875 52.998863 1931.950806|-90.237343 -0.000000 -0.000000",
                 "5466.887695 78.591927 3880.472900|138.367569 -0.000000 -0.000000" ,
@@ -170,18 +283,52 @@
             "keyclass": "CJ_Key1",
             "openable": 1,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Tan_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+                "AmmoBox_00buck_10rnd|0.05",
+                "AmmoBox_12gaSlug_10Rnd|0.05",
+                "AmmoBox_380_35rnd|0.05",
+                "AmmoBox_45ACP_25rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_308WinTracer_20Rnd|0.025",
+                "AmmoBox_308WinTracer_20Rnd|0.025",
+                "AmmoBox_308Win_20Rnd|0.025",
+                "AmmoBox_308Win_20Rnd|0.025",
+                "AmmoBox_545x39Tracer_20Rnd|0.025",
+                "AmmoBox_545x39Tracer_20Rnd|0.025",
+                "AmmoBox_545x39_20Rnd|0.025",
+                "AmmoBox_545x39_20Rnd|0.025",
+                "AmmoBox_556x45Tracer_20Rnd|0.025",
+                "AmmoBox_556x45Tracer_20Rnd|0.025",
+                "AmmoBox_556x45_20Rnd|0.025",
+                "AmmoBox_556x45_20Rnd|0.025",
+                "AmmoBox_762x39Tracer_20Rnd|0.025",
+                "AmmoBox_762x39Tracer_20Rnd|0.025",
+                "AmmoBox_762x39_20Rnd|0.025",
+                "AmmoBox_762x39_20Rnd|0.025",
+                "AmmoBox_762x54Tracer_20Rnd|0.025",
+                "AmmoBox_762x54Tracer_20Rnd|0.025",
+                "HighCapacityVest_Olive",
+                "RGD5Grenade",
+                "M67Grenade",
+                "LC_predefined_SNAFU_SNAFUUzi",
+                "LC_predefined_SNAFU_MP9_GUN",
+                "LC_predefined_GCGN_MP7",
+                "LC_predefined_Spas12_Gun",
+                "LC_predefined_VR80_Gun",
+                "LC_predefined_SN_Auto_Shotgun",
+                "LC_predefined_Tec9_Gun"
             ]
         },
         {
             "name": "Police_Tier3",
-            "number": 2,
+            "number": 4,
             "pos": [
                 "3728.126221 19.225147 8651.619141|-89.507271 -0.000000 -0.000000",
                 "11383.337891 26.052393 10123.364258|-158.306732 -0.000000 -0.000000",
@@ -191,17 +338,49 @@
             "keyclass": "CJ_Key1",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Tan_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
+                "AmmoBox_00buck_10rnd|0.05",
+                "AmmoBox_12gaSlug_10Rnd|0.05",
+                "AmmoBox_380_35rnd|0.05",
+                "AmmoBox_45ACP_25rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_308WinTracer_20Rnd|0.05",
+                "AmmoBox_308WinTracer_20Rnd|0.05",
+                "AmmoBox_308Win_20Rnd|0.05",
+                "AmmoBox_308Win_20Rnd|0.05",
+                "AmmoBox_545x39Tracer_20Rnd|0.05",
+                "AmmoBox_545x39Tracer_20Rnd|0.05",
+                "AmmoBox_545x39_20Rnd|0.05",
+                "AmmoBox_545x39_20Rnd|0.05",
+                "AmmoBox_556x45Tracer_20Rnd|0.05",
+                "AmmoBox_556x45Tracer_20Rnd|0.05",
+                "AmmoBox_556x45_20Rnd|0.05",
+                "AmmoBox_556x45_20Rnd|0.05",
+                "AmmoBox_762x39Tracer_20Rnd|0.05",
+                "AmmoBox_762x39Tracer_20Rnd|0.05",
+                "AmmoBox_762x39_20Rnd|0.05",
+                "AmmoBox_762x39_20Rnd|0.05",
+                "AmmoBox_762x54Tracer_20Rnd|0.05",
+                "AmmoBox_762x54Tracer_20Rnd|0.05",
+                "PlateCarrierVest",
+                "Grenade_Chemgas",
+                "LC_predefined_SNAFU_RPK16_Black",
+                "LC_predefined_SNAFU_AEK545_Gun",
+                "LC_predefined_AKM",
+                "LC_predefined_CZ527_Black",
+                "LC_predefined_SKS_Black"
             ]
         },
         {
             "name": "Industrial_Tier1",
-            "number": 2,
+            "number": 12,
             "pos": [
                 "6891.517578 42.116329 2362.292236|-10.209223 -0.000000 -0.000000",
                 "6977.799805 2.778582 1338.977905|169.134933 -0.000000 -0.000000",
@@ -219,13 +398,31 @@
             "keyclass": "CJ_Key3",
             "openable": 2,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Wood_Brown_Tools_Large"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+              "NailBox|1.0",
+              "Whetstone|0.5",
+              "Screwdriver",
+              "Pliers",
+              "Battery9V|0.1",
+              "CarBattery|0.1",
+              "TruckBattery|0.1",
+              "BBP_Wood_Storage",
+              "BBP_XmasLights_9v",
+              "BBP_XmasLights_Solar",
+              "Hammer",
+              "SledgeHammer",
+              "Handsaw",
+              "Hacksaw",
+              "rag_baseitems_sleepingbag_packed_ckeckered_blue",
+              "rag_baseitems_sleepingbag_packed_ckeckered_brown",
+              "rag_baseitems_sleepingbag_packed_ckeckered_green",
+              "rag_baseitems_sleepingbag_ckeckered_grey",
+              "rag_baseitems_sleepingbag_packed_ckeckered_pink",
+              "rag_baseitems_sleepingbag_ckeckered_red"
             ]
         },
         {
@@ -238,18 +435,33 @@
             "keyclass": "CJ_Key3",
             "openable": 1,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Wood_Brown_Tools_Large"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+                "NailBox|1.0",
+                "NailBox|1.0",
+                "Whetstone|0.5",
+                "Screwdriver",
+                "Pliers",
+                "Battery9V|0.1",
+                "CarBattery|0.2",
+                "TruckBattery|0.2",
+                "EngineOil",
+                "rag_car_jack",
+                "BBP_Mesh_Gate_Kit",
+                "BBP_Metal_Stair_Kit",
+                "BBP_Metal_Stair_Kit",
+                "BBP_Floor_Mesh_Kit",
+                "BBP_Mesh_Fence_Kit",
+                "BBP_Mesh_Gate_Kit",
+                "BBP_Tape_Measure"
             ]
         },
         {
             "name": "Industrial_Tier3",
-            "number": 2,
+            "number": 5,
             "pos": [
                 "8589.355469 6.097882 3595.224121|-42.659508 -0.000000 -0.000000",
                 "12941.885742 5.361795 1046.371826|90.281227 -0.000000 -0.000000",
@@ -264,17 +476,32 @@
             "keyclass": "CJ_Key3",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Wood_Brown_Tools_Large"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
+                "NailBox|1.0",
+                "NailBox|1.0",
+                "NailBox|1.0",
+                "Whetstone|1.0",
+                "Screwdriver",
+                "Pliers",
+                "Battery9V",
+                "EngineOil",
+                "rag_car_jack",
+                "BBP_Cement",
+                "BBP_Mortar_Mix",
+                "BBP_Blueprint",
+                "BBP_SolarPlus_PanelKit",
+                "BBP_SolarPlus",
+                "BBP_WellKit",
+                "BBP_Cement_Mixer_Kit"
             ]
         },
         {
             "name": "Military_Tier1",
-            "number": 2,
+            "number": 5,
             "pos": [
                 "5458.665039 34.920967 613.232300|13.145535 -0.000000 -0.000000",
                 "5536.427734 74.679008 3671.119385|58.039196 -0.000000 -0.000000",
@@ -285,18 +512,46 @@
             "keyclass": "CJ_Key7",
             "openable": 2,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Camo_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+                "AmmoBox_308WinTracer_20Rnd|0.05",
+                "AmmoBox_308WinTracer_20Rnd|0.05",
+                "AmmoBox_308Win_20Rnd|0.05",
+                "AmmoBox_308Win_20Rnd|0.05",
+                "AmmoBox_545x39Tracer_20Rnd|0.05",
+                "AmmoBox_545x39Tracer_20Rnd|0.05",
+                "AmmoBox_545x39_20Rnd|0.05",
+                "AmmoBox_545x39_20Rnd|0.05",
+                "AmmoBox_556x45Tracer_20Rnd|0.05",
+                "AmmoBox_556x45Tracer_20Rnd|0.05",
+                "AmmoBox_556x45_20Rnd|0.05",
+                "AmmoBox_556x45_20Rnd|0.05",
+                "AmmoBox_762x39Tracer_20Rnd|0.05",
+                "AmmoBox_762x39Tracer_20Rnd|0.05",
+                "AmmoBox_762x39_20Rnd|0.05",
+                "AmmoBox_762x39_20Rnd|0.05",
+                "AmmoBox_762x54Tracer_20Rnd|0.05",
+                "AmmoBox_762x54Tracer_20Rnd|0.05",
+                "AmmoBox_762x54_20Rnd|0.05",
+                "AmmoBox_762x54_20Rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39AP_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "AmmoBox_9x39_20Rnd|0.05",
+                "UKAssVest_Camo",
+                "UKAssVest_Khaki",
+                "UKAssVest_Black",
+                "LandMindTrap",
+                "LC_predefined_HK416_Gun",
+                "LC_predefined_MK18_Gun"
             ]
         },
         {
             "name": "Military_Tier2",
-            "number": 2,
+            "number": 3,
             "pos": [
                 "5447.042480 7.083671 1053.757080|92.333748 -0.000000 -0.000000",
                 "6140.207031 8.190332 14655.834961|-34.824257 -0.000000 -0.000000",
@@ -305,18 +560,44 @@
             "keyclass": "CJ_Key7",
             "openable": 1,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Camo_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
-                
+                "AmmoBox_308WinTracer_20Rnd|0.1",
+                "AmmoBox_308WinTracer_20Rnd|0.1",
+                "AmmoBox_308Win_20Rnd|0.1",
+                "AmmoBox_308Win_20Rnd|0.1",
+                "AmmoBox_545x39Tracer_20Rnd|0.1",
+                "AmmoBox_545x39Tracer_20Rnd|0.1",
+                "AmmoBox_545x39_20Rnd|0.1",
+                "AmmoBox_545x39_20Rnd|0.1",
+                "AmmoBox_556x45Tracer_20Rnd|0.1",
+                "AmmoBox_556x45Tracer_20Rnd|0.1",
+                "AmmoBox_556x45_20Rnd|0.1",
+                "AmmoBox_556x45_20Rnd|0.1",
+                "AmmoBox_762x39Tracer_20Rnd|0.1",
+                "AmmoBox_762x39Tracer_20Rnd|0.1",
+                "AmmoBox_762x39_20Rnd|0.1",
+                "AmmoBox_762x39_20Rnd|0.1",
+                "AmmoBox_762x54Tracer_20Rnd|0.1",
+                "AmmoBox_762x54Tracer_20Rnd|0.1",
+                "AmmoBox_762x54_20Rnd|0.1",
+                "AmmoBox_762x54_20Rnd|0.1",
+                "HighCapacityVest_Olive",
+                "HighCapacityVest_Black",
+                "Claymore_Mine",
+                "LC_predefined_SCAR_Gun",
+                "LC_predefined_AK101_Black",
+                "LC_predefined_M4A1_Green",
+                "LC_predefined_SG550_Gun",
+                "LC_predefined_Mosin9130_Black"
             ]
         },
         {
             "name": "Military_Tier3",
-            "number": 2,
+            "number": 5,
             "pos": [
                 "12887.089844 21.135365 1481.031860|111.894943 -0.000000 -0.000000",
                 "14332.982422 2.579766 6402.134766|177.214172 -0.000000 -0.000000",
@@ -352,17 +633,52 @@
             "keyclass": "CJ_Key7",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_Camo_Small"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
+                "AmmoBox_308WinTracer_20Rnd|0.2",
+                "AmmoBox_308WinTracer_20Rnd|0.2",
+                "AmmoBox_308Win_20Rnd|0.2",
+                "AmmoBox_308Win_20Rnd|0.2",
+                "AmmoBox_545x39Tracer_20Rnd|0.2",
+                "AmmoBox_545x39Tracer_20Rnd|0.2",
+                "AmmoBox_545x39_20Rnd|0.2",
+                "AmmoBox_545x39_20Rnd|0.2",
+                "AmmoBox_556x45Tracer_20Rnd|0.2",
+                "AmmoBox_556x45Tracer_20Rnd|0.2",
+                "AmmoBox_556x45_20Rnd|0.2",
+                "AmmoBox_556x45_20Rnd|0.2",
+                "AmmoBox_762x39Tracer_20Rnd|0.2",
+                "AmmoBox_762x39Tracer_20Rnd|0.2",
+                "AmmoBox_762x39_20Rnd|0.2",
+                "AmmoBox_762x39_20Rnd|0.2",
+                "AmmoBox_762x54Tracer_20Rnd|0.2",
+                "AmmoBox_762x54Tracer_20Rnd|0.2",
+                "AmmoBox_762x54_20Rnd|0.2",
+                "AmmoBox_762x54_20Rnd|0.2",
+                "AmmoBox_9x39AP_20Rnd|0.2",
+                "AmmoBox_9x39AP_20Rnd|0.2",
+                "AmmoBox_9x39_20Rnd|0.2",
+                "AmmoBox_9x39_20Rnd|0.2",
+                "PlateCarrierVest",
+                "PlateCarrierVest_Black",
+                "PlateCarrierVest_Green",
+                "PlateCarrierVest_Camo",
+                "Plastic_Explosive",
+                "LC_predefined_Saint556",
+                "LC_predefined_HoneyBadger",
+                "LC_predefined_RSASSDKMC",
+                "LC_predefined_AWM338",
+                "LC_predefined_Kivaari",
+                "LC_predefined_SNAFUDVL10M2",
+                "LC_predefined_SNAFUSRSA2"
             ]
         },
         {
             "name": "Secret",
-            "number": 2,
+            "number": 15,
             "pos": [
                 "4220.459961 14.073400 1492.599976|0.000000 0.000000 0.000000",
                 "6709.695801 38.022221 2650.502930|-99.424965 0.000000 0.000000",
@@ -408,12 +724,20 @@
             "keyclass": "CJ_Key9",
             "openable": 0,
             "chest": [
-                "CJ_LootChest_Green_Small"
+                "CJ_LootChest_HiddenStash_Large"
             ],
-            "lootrandomize": 0.1,
+            "lootrandomize": 0.8,
             "light": 1,
             "loot": [
-              "LC_Table_MedicalTier3"
+                "GhillieAtt_Mossy",
+                "GhillieBushrag_Mossy",
+                "GhillieHood_Mossy",
+                "GhillieSuit_Mossy",
+                "GhillieTop_Mossy",
+                "jmc_BearPeltGhillieBrown_m|1.0",
+                "LC_predefined_SNAFUAlligator",
+                "LC_predefined_GCGN_M700",
+                "LC_predefined_SNAFU_M48"
             ]
         }
     ],
@@ -476,97 +800,291 @@
             ],
             "optic": "SNAFU_Tango6T_Tan",
             "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_Glock19",
+            "weapon": "SN_Glock19",
+            "magazine": "Mag_Glock_15Rnd",
+            "attachments": [
+                "PistolSuppressor",
+                "TLRLight"
+            ],
+            "optic": "SNAFU_Docter",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_Mp443",
+            "weapon": "SN_Mp443",
+            "magazine": "SN_Mp443_Mag",
+            "attachments": [
+                "PistolSuppressor",
+                "TLRLight"
+            ],
+            "optic": "SNAFU_Docter",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_PDW_9mm",
+            "weapon": "SNAFU_PDW_9mm",
+            "magazine": "SNAFU_PDW_9mm_Mag",
+            "attachments": [
+                "PistolSuppressor",
+                "UniversalLight"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_USP",
+            "weapon": "SN_USP",
+            "magazine": "SN_USP_Mag",
+            "attachments": [
+                "PistolSuppressor",
+                "TLRLight"
+            ],
+            "optic": "SNAFU_Docter",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_SNAFUUzi",
+            "weapon": "SNAFUUzi",
+            "magazine": "SNAFUUzi_32rdMag",
+            "attachments": [
+                "SNAFU_SPMOD"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_MP9_GUN",
+            "weapon": "SNAFU_MP9_GUN",
+            "magazine": "SNAFU_MP9_30rnd_Mag",
+            "attachments": [
+                "SNAFU_SPMOD"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_GCGN_MP7",
+            "weapon": "GCGN_MP7",
+            "magazine": "GCGN_MP7_40Rnd",
+            "attachments": [
+                "SNAFU_SPMOD"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Spas12_Gun",
+            "weapon": "Spas12_Gun",
+            "magazine": "",
+            "attachments": [
+                "SNAFU_Shotgunchoke_Black"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_VR80_Gun",
+            "weapon": "VR80_Gun",
+            "magazine": "VR80_Magazine_10rd",
+            "attachments": [
+                "UniversalLight",
+                "SNAFU_Shotgunchoke_Black"
+            ],
+            "optic": "SNAFU_Kobra",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_Auto_Shotgun",
+            "weapon": "SN_Auto_Shotgun",
+            "magazine": "SN_Auto_Shotgun_Mag",
+            "attachments": [
+                "SNAFU_Shotgunchoke_Black"
+            ],
+            "optic": "SNAFU_Kobra",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Tec9_Gun",
+            "weapon": "Tec9_Gun",
+            "magazine": "Tec9_Mag",
+            "attachments": [
+                "SNAFU_MPX_Suppressor_Black"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SNAFU_RPK16_Black",
+            "weapon": "SNAFU_RPK16_Black",
+            "magazine": "SNAFU_RPK16_Black_Mag",
+            "attachments": [
+                "UniversalLight",
+                "SNAFUGevar_Suppressor_Black"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_AEK545_Gun",
+            "weapon": "SNAFU_AEK545_Gun",
+            "magazine": "SNAFU_RPK16_Black_Mag",
+            "attachments": [
+                "UniversalLight"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AKM",
+            "weapon": "AKM",
+            "magazine": "Mag_AKM_Drum75Rnd_Black",
+            "attachments": [
+                "AK_WoodBttstck_Black",
+                "SNAFU_Normalized_Suppressor_Black",
+                "AK_RailHndgrd_Black"
+            ],
+            "optic": "SNAFU_AKTango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ527_Black",
+            "weapon": "CZ527_Black",
+            "magazine": "Mag_CZ527_5rnd",
+            "attachments": [
+                "SNAFUAR15_SPR_SIL"
+            ],
+            "optic": "SNAFU_HLeupold_Mark8",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SKS_Black",
+            "weapon": "SKS_Black",
+            "magazine": "",
+            "attachments": [
+                "SNAFUGevar_Suppressor_Black"
+            ],
+            "optic": "SNAFU_MTango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_HK416_Gun",
+            "weapon": "HK416_Gun",
+            "magazine": "SNAFU_CMAG60556_Black",
+            "attachments": [
+                "UniversalLight",
+                "SNAFU_Agram_Suppressor_Black",
+                "SNAFU_FGKAC_Grip"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        }, 
+        {
+            "defname": "LC_predefined_MK18_Gun",
+            "weapon": "MK18_Gun",
+            "magazine": "SNAFU_CMAG60556_Black",
+            "attachments": [
+                "UniversalLight",
+                "SNAFUGevar_Suppressor_Green",
+                "SNAFU_FGCR_Grip"
+            ],
+            "optic": "SNAFU_Tango6T_Wood",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFUAlligator",
+            "weapon": "SNAFUAlligator",
+            "magazine": "SNAFUAlligator_5rdMag",
+            "attachments": [
+            ],
+            "optic": "SNAFU_HuntingOptic",
+            "opticbattery": 1
+        },   
+        {
+            "defname": "LC_predefined_GCGN_M700",
+            "weapon": "GCGN_M700",
+            "magazine": "GCGN_M700_Mag",
+            "attachments": [
+            ],
+            "optic": "SNAFU_HuntingOptic",
+            "opticbattery": 1
+        },  
+        {
+            "defname": "LC_predefined_SNAFU_M48",
+            "weapon": "SNAFU_M48",
+            "magazine": "",
+            "attachments": [
+            ],
+            "optic": "SNAFU_MHuntingOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SCAR_Gun",
+            "weapon": "SCAR_Gun",
+            "magazine": "SNAFU_CMAG60556_Tan",
+            "attachments": [
+                "UniversalLight",
+                "Snafu_ScarH_SIL_Tan",
+                "SNAFUScar_AFG_Tan"
+            ],
+            "optic": "SNAFU_Tango6T_Tan",
+            "opticbattery": 1
+        },    
+        {
+            "defname": "LC_predefined_AK101_Black",
+            "weapon": "AK101_Black",
+            "magazine": "Mag_AK101_30Rnd_Black",
+            "attachments": [
+                "AK_RailHndgrd_Black",
+                "AK_WoodBttstck_Black"
+            ],
+            "optic": "SNAFU_AKTango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_M4A1_Green",
+            "weapon": "M4A1_Green",
+            "magazine": "Mag_CMAG_40Rnd_Green",
+            "attachments": [
+                "M4_OEBttstck_Green",
+                "SNAFU_LStandardized_Suppressor_Green",
+                "M4_RISHndgrd_Green"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },      
+        {
+            "defname": "LC_predefined_SG550_Gun",
+            "weapon": "SG550_Gun",
+            "magazine": "SG550_Mag",
+            "attachments": [
+                "SNAFU_Standardized_Suppressor_Green"
+            ],
+            "optic": "SNAFU_Tango6T_Wood",
+            "opticbattery": 1
+        },   
+        {
+            "defname": "LC_predefined_Mosin9130_Black",
+            "weapon": "Mosin9130_Black",
+            "magazine": "SG550_Mag",
+            "attachments": [
+                "SNAFU_SR25_Supp"
+            ],
+            "optic": "SNAFU_MHuntingOptic",
+            "opticbattery": 1
         }
     ],
     "LootCategories": [
         {
-            "name": "LC_Table_MedicalTier1",
+            "name": "LC_Table_Attachments_Police",
             "Loot": [
-                "BloodBagEmpty"
-            ]
-        },
-        {
-            "name": "LC_Table_MedicalTier2",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing"
-            ]
-        },
-        {
-            "name": "LC_Table_MedicalTier3",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing",
-                "InjectorEpipen"
-            ]
-        },        {
-            "name": "LC_Table_PoliceTier1",
-            "Loot": [
-                "BloodBagEmpty"
-            ]
-        },
-        {
-            "name": "LC_Table_PoliceTier2",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing"
-            ]
-        },
-        {
-            "name": "LC_Table_PoliceTier3",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing",
-                "InjectorEpipen"
-            ]
-        },        {
-            "name": "LC_Table_BuildingTier1",
-            "Loot": [
-                "BloodBagEmpty"
-            ]
-        },
-        {
-            "name": "LC_Table_BuildingTier2",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing"
-            ]
-        },
-        {
-            "name": "LC_Table_BuildingTier3",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing",
-                "InjectorEpipen"
-            ]
-        },
-        {
-            "name": "LC_Table_MilitaryTier1",
-            "Loot": [
-                "BloodBagEmpty"
-            ]
-        },
-        {
-            "name": "LC_Table_MilitaryTier2",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing"
-            ]
-        },
-        {
-            "name": "LC_Table_MilitaryTier3",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing",
-                "InjectorEpipen"
-            ]
-        },
-        {
-            "name": "LC_Table_Secret",
-            "Loot": [
-                "BloodBagEmpty",
-                "BandageDressing",
-                "InjectorEpipen"
+                "PSO1Optic|1.0",
+                "AK_Suppressor|1.0",												
+                "UniversalLight|1.0",												
+                "AK_RailHndgrd|1.0",												
+                "AK_FoldingBttstck|1.0"												
             ]
         }
     ]
