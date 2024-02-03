@@ -1,0 +1,10 @@
+1: Paris Island - Tier 1
+2: Old Town - Tier 1
+3: Swanisland - Tier 1
+4: Airfield - Tier 2
+5: KMUC - Tier 2
+6: Powerplant - Tier 2
+7: Area 42 - Tier 2
+8: Archipelago Island - Tier 2
+9: Swamp - Tier 3
+10: Camp Bear - Tier 3
