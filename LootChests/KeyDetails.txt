@@ -1,5 +1,0 @@
-Medical: Blue key - CJ_Key8
-Police: Black key - CJ_Key1
-Base building / Industrial: Brown key - CJ_Key3
-Military: Red key - CJ_Key7
-Special: Old metal key - CJ_Key9
