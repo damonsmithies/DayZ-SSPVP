@@ -41,6 +41,7 @@
             "light": 1,
             "loot": [
                 "SyringeEmpty",
+                "SurgicalKit",
                 "SodaCan_MadBull",
                 "LC_Table_Medical_Salve_Hematoma_Bruise_Tier1",
                 "LC_Table_Medical_Tablets_Cold_Influenza_Pneumonia_Tier1",
