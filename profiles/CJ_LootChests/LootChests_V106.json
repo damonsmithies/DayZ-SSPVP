@@ -1,0 +1,2533 @@
+{
+    "EnableDebug": 0,
+    "DeleteLogs": 0,
+    "MaxSpareMags": 2,
+	"RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "Medical_Tier1",
+            "number": 12,
+            "pos": [
+                "6790.189941 3.280000 1532.750000|155.499985 0.000000 0.000000",
+                "6947.421875 38.943539 2072.474121|179.933899 0.000000 0.000000",
+                "5035.840820 4.556666 2123.518066|-27.681746 -0.000000 -0.000000",
+                "5029.057617 4.538933 2118.137451|-118.084198 -0.000000 -0.000000",
+                "4659.940918 20.373806 4504.714844|94.126678 0.000000 0.000000",
+                "4659.409668 20.358732 4513.260254|3.500597 0.000000 0.000000",
+                "10235.474609 42.832153 5006.337402|-81.663246 -0.000000 -0.000000",
+                "10235.829102 42.686069 4997.598633|-173.807602 -0.000000 -0.000000",
+                "6958.507324 31.615871 5828.213867|64.736458 0.000000 -0.000000",
+                "6953.537109 31.597212 5835.528320|-24.456551 0.000000 -0.000000",
+                "6382.999023 15.830716 6184.308594|55.704720 -0.000000 -0.000000",
+                "6376.867676 15.828746 6190.411621|-35.135647 -0.000000 -0.000000",
+                "3291.242188 20.584761 6376.939453|162.360535 -0.000000 -0.000000",
+                "4564.244141 20.567535 6990.892090|66.001457 -0.000000 -0.000000",
+                "5378.417969 2.755820 7538.533691|-150.839355 -0.000000 -0.000000",
+                "1863.905151 9.860774 9108.837891|121.206932 -0.000000 -0.000000",
+                "1867.267456 9.866038 9116.808594|32.514248 -0.000000 -0.000000",
+                "8303.498047 5.960448 9163.538086|128.321533 -0.000000 -0.000000",
+                "8307.813477 5.960738 9171.184570|39.987206 -0.000000 -0.000000",
+                "9058.315430 5.284675 9338.289063|0.000000 -0.000000 -0.000000",
+                "6074.234375 6.046647 14556.880859|0.000000 -0.000000 -0.000000",
+                "11016.576172 6.213975 10339.612305|26.248262 -0.000000 -0.000000",
+                "11008.367188 6.221000 10342.279297|-64.501411 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key8",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Green_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "SyringeEmpty",
+                "SurgicalKit",
+                "SodaCan_MadBull",
+                "LC_Table_Medical_Salve_Hematoma_Bruise_Tier1",
+                "LC_Table_Medical_Tablets_Cold_Influenza_Pneumonia_Tier1",
+                "LC_Table_Medical_Tablets_Pain_Tier1",
+                "LC_Table_Medical_Tablets_Stomach_Tier1",
+                "LC_Table_Medical_Tablets_Mental_State_Tier1",
+                "LC_Table_Medical_Ampoule_Sepsis_Tier1",
+                "LC_Table_Medical_Tablets_Concussion_Tier1",
+                "LC_Table_Medical_Tablets_Blood_Hematopoiesis_Tier1",
+                "LC_Table_Medical_Tablets_Blood_Hemostatic_Tier1",
+                "LC_Table_Medical_Items_Tier1",
+                "LC_Table_Medical_Random_Tier1",
+                "LC_Table_Medical_Random_Tier1",
+                "LC_Table_Medical_Items_Base"
+            ]
+        },
+        {
+            "name": "Medical_Tier2",
+            "number": 8,
+            "pos": [
+                "6775.689941 7.051590 1522.260010|-114.269997 0.000000 0.000000",
+                "6793.185547 16.777292 1534.545288|65.296883 0.000000 0.000000",
+                "6929.586426 42.680626 2068.966553|-90.864059 -0.000000 -0.000000",
+                "6950.594727 52.451347 2073.314941|90.329147 -0.000000 -0.000000",
+                "3307.370117 20.446314 6369.606934|65.672440 -0.000000 -0.000000",
+                "3275.665771 24.320988 6367.921387|-107.085808 -0.000000 -0.000000",
+                "3294.421631 34.088085 6377.744141|71.335602 -0.000000 -0.000000",
+                "3279.923828 20.439365 6512.945801|109.723709 -0.000000 -0.000000",
+                "4574.859375 24.307423 6976.286621|158.204391 -0.000000 -0.000000",
+                "4562.754395 34.105434 6993.796387|-26.590246 -0.000000 -0.000000",
+                "5361.320313 6.491888 7543.344238|-63.059944 -0.000000 -0.000000",
+                "5381.426758 16.267775 7536.912598|118.065453 -0.000000 -0.000000",
+                "8272.220703 5.128774 9159.600586|-138.229874 -0.000000 -0.000000",
+                "8272.441406 5.129783 9184.578125|-51.981297 -0.000000 -0.000000",
+                "8297.484375 5.129219 9188.985352|39.746082 -0.000000 -0.000000",
+                "9076.049805 9.005790 9341.608398|91.288292 -0.000000 -0.000000",
+                "9055.043945 18.790594 9338.294922|-90.062630 -0.000000 -0.000000",
+                "9865.054688 17.956182 10801.589844|-22.467402 -0.000000 -0.000000",
+                "9876.829102 27.731522 10783.518555|-21.699266 -0.000000 -0.000000",
+                "6091.983398 9.777903 14560.512695|89.876656 -0.000000 -0.000000",
+                "6071.049805 19.551579 14556.766602|-90.443893 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key8",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Green_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "SyringeEmpty",
+                "SyringeEmpty",
+                "SurgicalKit",
+                "SodaCan_MadBull",
+                "SodaCan_MadBull",
+                "LC_Table_Medical_Tablets_Cold_Influenza_Pneumonia_Tier2",
+                "LC_Table_Medical_Ampoule_Cold_Influenza_Pneumonia_Tier2",
+                "LC_Table_Medical_Injector_Cold_Influenza_Pneumonia_Tier2",
+                "LC_Table_Medical_Ampoule_Pain_Tier2",
+                "LC_Table_Medical_Ampoule_Stomach_Tier2",
+                "LC_Table_Medical_Ampoule_Mental_State_Tier2",
+                "LC_Table_Medical_Ampoule_Sepsis_Tier2",
+                "LC_Table_Medical_Injector_Sepsis_Tier2",
+                "LC_Table_Medical_Ampoule_Concussion_Tier2",
+                "LC_Table_Medical_Ampoule_Blood_Hematopoiesis_Tier2",
+                "LC_Table_Medical_Ampoule_Blood_Hemostatic_Tier2",
+                "LC_Table_Medical_Items_Tier2",
+                "LC_Table_Medical_Items_Tier2",
+                "LC_Table_Medical_Random_Tier2",
+                "LC_Table_Medical_Random_Tier2",
+                "LC_Table_Medical_Random_Tier2",
+                "LC_Table_Medical_Items_Base",
+                "LC_Table_Medical_Items_Base"
+            ]
+        },
+        {
+            "name": "Medical_Tier3",
+            "number": 5,
+            "pos": [
+                "2720.920166 22.437515 3632.396240|-50.652878 -0.000000 -0.000000",
+                "2709.064453 22.484972 3619.887207|-44.999939 0.000000 0.000000",
+                "2696.422119 22.490911 3607.232178|-44.999939 0.000000 0.000000",
+                "3133.035645 22.568983 4208.085938|115.110718 0.000000 0.000000",
+                "3129.166748 26.325783 4190.200195|-153.965424 0.000000 0.000000",
+                "3134.159424 36.097179 4210.962891|24.125019 0.000000 0.000000",
+                "14097.440430 137.572968 2620.024170|91.799957 0.000000 -0.000000",
+                "14120.477539 137.531769 2644.806641|53.480934 0.000000 -0.000000",
+                "15810.419922 22.297523 5090.560059|78.196404 -0.000000 -0.000000",
+                "15749.600586 40.226398 4780.509277|95.370453 -0.000000 -0.000000",
+                "15751.596680 43.944370 4762.685547|-174.802460 -0.000000 -0.000000",
+                "15752.477539 50.878239 4772.437988|-173.938400 -0.000000 -0.000000",
+                "15786.446289 16.547384 4442.466309|-66.973831 -0.000000 -0.000000",
+                "12549.235352 1.938403 7638.286133|114.721069 -0.000000 -0.000000",
+                "1055.091187 9.494514 12727.170898|-104.284775 -0.000000 -0.000000",
+                "1047.306030 13.223271 12743.550781|-15.252024 -0.000000 -0.000000",
+                "1055.950562 23.002596 12724.184570|167.741089 -0.000000 -0.000000",
+                "7168.982422 538.751160 11639.111328|90.036346 -0.000000 -0.000000",
+                "7172.514648 542.477295 11621.715820|179.766724 -0.000000 -0.000000",
+                "7174.055664 549.439026 11642.070313|88.708969 -0.000000 -0.000000",
+                "13153.646484 12.942145 9904.987305|0.000000 -0.000000 -0.000000",
+                "13131.947266 12.936746 9905.221680|0.000000 -0.000000 -0.000000",
+                "13137.490234 12.940416 9861.169922|-176.713028 -0.000000 -0.000000",
+                "10987.083984 5.376385 10342.469727|25.529081 -0.000000 -0.000000",
+                "11051.390625 5.386684 10311.512695|24.743311 -0.000000 -0.000000",
+                "11006.067383 5.377591 10298.048828|-153.351639 -0.000000 -0.000000",
+                "10971.523438 5.382063 10269.708984|-155.836594 -0.000000 -0.000000",
+                "11521.045898 16.481632 10131.584961|-157.858032 -0.000000 -0.000000",
+                "11503.164063 20.215687 10134.925781|-68.302002 -0.000000 -0.000000",
+                "11524.033203 29.994160 10130.665039|111.698677 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key8",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Green_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "SyringeEmpty",
+                "SyringeEmpty",
+                "SyringeEmpty",
+                "SurgicalKit",
+                "SurgicalKit",
+                "SodaCan_MadBull",
+                "SodaCan_MadBull",
+                "SodaCan_MadBull",
+                "LC_Table_Medical_Salve_Hematoma_Bruise_Tier3",
+                "LC_Table_Medical_Ampoule_Cold_Influenza_Pneumonia_Tier3",
+                "LC_Table_Medical_Injector_Cold_Influenza_Pneumonia_Tier3",
+                "LC_Table_Medical_Ampoule_Pain_Tier3",
+                "LC_Table_Medical_Injector_Pain_Tier3",
+                "LC_Table_Medical_Injector_Stomach_Tier3",
+                "LC_Table_Medical_Ampoule_Sepsis_Tier3",
+                "LC_Table_Medical_Injector_Sepsis_Tier3",
+                "LC_Table_Medical_Ampoule_ZVirus_Tier3",
+                "LC_Table_Medical_Injector_ZVirus_Tier3",
+                "LC_Table_Medical_Injector_Concussion_Tier3",
+                "LC_Table_Medical_Injector_Blood_Hematopoiesis_Tier3",
+                "LC_Table_Medical_Injector_Blood_Hemostatic_Tier3",
+                "LC_Table_Medical_Items_Tier3",
+                "LC_Table_Medical_Items_Tier3",
+                "LC_Table_Medical_Random_Tier3",
+                "LC_Table_Medical_Random_Tier3",
+                "LC_Table_Medical_Random_Tier3",
+                "LC_Table_Medical_Items_Base",
+                "LC_Table_Medical_Items_Base",
+                "LC_Table_Medical_Items_Base"
+            ]
+        },
+        {
+            "name": "Police_Tier1",
+            "number": 12,
+            "pos": [
+                "7012.385742 12.629501 1553.635864|150.850327 -0.000000 -0.000000",
+                "6432.273926 36.210827 2045.125610|97.985321 -0.000000 -0.000000",
+                "4422.970215 8.904170 2840.310059|45.207001 0.000000 0.000000",
+                "9780.803711 9.960922 4334.539063|-46.890400 -0.000000 -0.000000",
+                "4644.331543 21.717550 4404.408691|-87.888580 -0.000000 -0.000000",
+                "7110.309570 11.870617 5445.423828|-91.416100 -0.000000 -0.000000",
+                "3301.966797 26.973511 6245.871582|-19.469406 -0.000000 -0.000000",
+                "5396.817871 10.497776 7576.722656|33.273495 -0.000000 -0.000000",
+                "10389.401367 29.448616 7997.131348|51.594299 -0.000000 -0.000000",
+                "9016.936523 9.719776 8823.305664|-148.533554 -0.000000 -0.000000",
+                "1649.531616 17.083885 9024.304688|-68.367233 -0.000000 -0.000000",
+                "10122.929688 29.661413 10947.730469|155.934036 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Tan_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "TacticalBaconCan",
+                "LC_Table_Weapons_Police_Tier1",
+                "LC_Table_Ammo_Tier1",
+                "LC_Table_Ammo_Tier1",
+                "LC_Table_Ammo_Tier1",
+                "LC_Table_Ammo_Tier1",
+                "LC_Table_Clothing_Vest_Police_Tier1",
+                "LC_Table_Clothing_Gloves_Police_Tier1",
+                "LC_Table_Clothing_Shirt_Police_Tier1",
+                "LC_Table_Clothing_Pants_Police_Tier1",
+                "LC_Table_Clothing_Boots_Police_Tier1",
+                "LC_Table_Clothing_Other_Police_Tier1",
+                "LC_Table_Items_Police_Tier1",
+                "LC_Table_Items_General"
+            ]
+        },
+        {
+            "name": "Police_Tier2",
+            "number": 6,
+            "pos": [
+                "7090.796875 52.998863 1931.950806|-90.237343 -0.000000 -0.000000",
+                "5466.887695 78.591927 3880.472900|138.367569 -0.000000 -0.000000" ,
+                "3270.169189 28.320704 6532.169434|-164.053970 -0.000000 -0.000000",
+                "8343.105469 13.017581 8695.459961|-179.549469 -0.000000 -0.000000",
+                "2059.301514 13.491435 9084.962891|-91.023911 -0.000000 -0.000000",
+                "6102.024902 13.583655 14722.836914|89.955696 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Tan_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "LC_Table_Weapons_Police_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Clothing_Vest_Police_Tier2",
+                "LC_Table_Clothing_Gloves_Police_Tier2",
+                "LC_Table_Clothing_Shirt_Police_Tier2",
+                "LC_Table_Clothing_Pants_Police_Tier2",
+                "LC_Table_Clothing_Boots_Police_Tier2",
+                "LC_Table_Clothing_Other_Police_Tier2",
+                "LC_Table_Items_Police_Tier2",
+                "LC_Table_Items_General"
+            ]
+        },
+        {
+            "name": "Police_Tier3",
+            "number": 4,
+            "pos": [
+                "3728.126221 19.225147 8651.619141|-89.507271 -0.000000 -0.000000",
+                "11383.337891 26.052393 10123.364258|-158.306732 -0.000000 -0.000000",
+                "507.988129 14.889484 12697.219727|-93.495644 -0.000000 -0.000000",
+                "781.859192 55.775024 12117.439453|89.917091 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Tan_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "LC_Table_Weapons_Police_Tier3",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Clothing_Vest_Police_Tier3",
+                "LC_Table_Clothing_Gloves_Police_Tier3",
+                "LC_Table_Clothing_Shirt_Police_Tier3",
+                "LC_Table_Clothing_Pants_Police_Tier3",
+                "LC_Table_Clothing_Boots_Police_Tier3",
+                "LC_Table_Clothing_Other_Police_Tier3",
+                "LC_Table_Items_Police_Tier3",
+                "LC_Table_Items_General",
+                "LC_Table_Items_NBC"
+            ]
+        },
+        {
+            "name": "Industrial_Tier1",
+            "number": 12,
+            "pos": [
+                "6891.517578 42.116329 2362.292236|-10.209223 -0.000000 -0.000000",
+                "6977.799805 2.778582 1338.977905|169.134933 -0.000000 -0.000000",
+                "3883.266357 5.811145 2531.376953|155.153152 -0.000000 -0.000000",
+                "5679.470215 128.966995 2369.972656|-91.354492 -0.000000 -0.000000",
+                "6804.749023 44.170059 2931.104980|74.569687 -0.000000 -0.000000",
+                "4705.796387 20.448063 6993.630371|-27.670565 -0.000000 -0.000000",
+                "3418.297119 22.218700 6539.134277|138.526535 -0.000000 -0.000000",
+                "9499.592773 24.287289 7601.204102|25.451942 -0.000000 -0.000000",
+                "9246.727539 8.792882 9290.081055|91.619637 -0.000000 -0.000000",
+                "1730.950928 5.640490 9346.393555|-102.403496 -0.000000 -0.000000",
+                "4511.409668 7.792124 12057.414063|-162.408386 -0.000000 -0.000000",
+                "5805.667480 5.894301 14807.184570|-109.507904 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key3",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Tools_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "NailBox",
+                "NailBox",
+                "Whetstone",
+                "br_sleepingbag",
+                "LC_Table_Industrial_BBP_Tier1",
+                "LC_Table_Industrial_BBP_Tier1",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Items_General",
+                "LC_Table_Items_General"
+            ]
+        },
+        {
+            "name": "Industrial_Tier2",
+            "number": 2,
+            "pos": [
+                "11040.855469 32.855484 2288.929688|-179.908981 -0.000000 -0.000000",
+                "14274.767578 97.676483 6072.013672|-30.186220 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key3",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Tools_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "Whetstone",
+                "Whetstone",
+                "LC_Table_Industrial_BBP_Tier2",
+                "LC_Table_Industrial_BBP_Tier2",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Items_General",
+                "LC_Table_Items_General",
+                "LC_Table_Items_General"
+            ]
+        },
+        {
+            "name": "Industrial_Tier3",
+            "number": 5,
+            "pos": [
+                "8589.355469 6.097882 3595.224121|-42.659508 -0.000000 -0.000000",
+                "12941.885742 5.361795 1046.371826|90.281227 -0.000000 -0.000000",
+                "15627.262695 2.718611 5055.787109|179.051849 -0.000000 -0.000000",
+                "5181.695313 11.334682 9112.375000|-30.404825 -0.000000 -0.000000",
+                "3853.789551 11.460958 8782.493164|0.000000 -0.000000 -0.000000",
+                "13717.341797 2.221673 9536.424805|6.674416 -0.000000 -0.000000",
+                "11522.085938 5.388667 9798.233398|-125.001282 -0.000000 -0.000000",
+                "757.042175 7.324606 13109.772461|-6.621431 -0.000000 -0.000000",
+                "506.385498 8.152074 15211.012695|147.863113 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key3",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Tools_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "Whetstone",
+                "Whetstone",
+                "Whetstone",
+                "LC_Table_Industrial_BBP_Tier3",
+                "LC_Table_Industrial_BBP_Tier3",
+                "LC_Table_Industrial_BBP_Tier3",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Tools_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Industrial_Items_General",
+                "LC_Table_Industrial_Items_General"
+            ]
+        },
+        {
+            "name": "Military_Tier1",
+            "number": 5,
+            "pos": [
+                "5458.665039 34.920967 613.232300|13.145535 -0.000000 -0.000000",
+                "5536.427734 74.679008 3671.119385|58.039196 -0.000000 -0.000000",
+                "4818.244629 20.650497 7088.027344|156.906464 -0.000000 -0.000000",
+                "10118.371094 21.163666 12555.781250|115.039520 -0.000000 -0.000000",
+                "10034.537109 28.896484 12697.703125|-148.512039 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Camo_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "TacticalBaconCan",
+                "LC_Table_Weapons_Military_Tier1",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Clothing_Vest_Military_Tier1",
+                "LC_Table_Clothing_Gloves_Military_Tier1",
+                "LC_Table_Clothing_Shirt_Military_Tier1",
+                "LC_Table_Clothing_Pants_Military_Tier1",
+                "LC_Table_Clothing_Boots_Military_Tier1",
+                "LC_Table_Clothing_Bags_Military_Tier1",
+                "LC_Table_Clothing_Helmets_Military_Tier1",
+                "LC_Table_Clothing_Other_Military_Tier1",
+                "LC_Table_Clothing_Other_Military_Tier1",
+                "LC_Table_Items_Military_Tier1",
+                "LC_Table_Items_Military_Tier1",
+                "LC_Table_Items_General",
+                "LC_Table_Items_NBC"
+            ]
+        },
+        {
+            "name": "Military_Tier2",
+            "number": 3,
+            "pos": [
+                "5447.042480 7.083671 1053.757080|92.333748 -0.000000 -0.000000",
+                "6140.207031 8.190332 14655.834961|-34.824257 -0.000000 -0.000000",
+                "6062.141602 8.173319 14619.647461|-104.953018 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Camo_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "LC_Table_Weapons_Military_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Clothing_Vest_Military_Tier2",
+                "LC_Table_Clothing_Gloves_Military_Tier2",
+                "LC_Table_Clothing_Shirt_Military_Tier2",
+                "LC_Table_Clothing_Pants_Military_Tier2",
+                "LC_Table_Clothing_Boots_Military_Tier2",
+                "LC_Table_Clothing_Bags_Military_Tier2",
+                "LC_Table_Clothing_Helmets_Military_Tier2",
+                "LC_Table_Clothing_Other_Military_Tier2",
+                "LC_Table_Clothing_Other_Military_Tier2",
+                "LC_Table_Items_Military_Tier2",
+                "LC_Table_Items_Military_Tier2",
+                "LC_Table_Items_General",
+                "LC_Table_Items_NBC"
+            ]
+        },
+        {
+            "name": "Military_Tier3",
+            "number": 5,
+            "pos": [
+                "12887.089844 21.135365 1481.031860|111.894943 -0.000000 -0.000000",
+                "14332.982422 2.579766 6402.134766|177.214172 -0.000000 -0.000000",
+                "12498.074219 1.994653 7692.056152|82.919800 -0.000000 -0.000000",
+                "3018.146484 22.676382 3568.261475|-138.818512 -0.000000 -0.000000",
+                "2675.541016 55.255791 3421.380615|179.197250 -0.000000 -0.000000",
+                "3137.153564 23.116716 4013.672852|-66.893158 -0.000000 -0.000000",
+                "3106.247559 22.718525 4108.755859|-67.293373 -0.000000 -0.000000",
+                "8879.596680 45.750664 3760.620605|8.329133 -0.000000 -0.000000",
+                "8822.063477 45.499905 3771.150879|5.771991 -0.000000 -0.000000",
+                "8874.976563 46.425549 3857.115479|100.773811 -0.000000 -0.000000",
+                "15724.391602 9.965417 4384.699219|-42.844028 -0.000000 -0.000000",
+                "15673.134766 26.295235 4962.019531|0.000000 -0.000000 -0.000000",
+                "8757.652344 16.280445 5974.001953|-175.792755 -0.000000 -0.000000",
+                "13296.200195 13.436600 9779.139648|109.055992 0.000000 0.000000",
+                "13307.822266 23.278688 9789.149414|114.058868 0.000000 0.000000",
+                "14109.730469 23.244492 10109.239258|-72.024872 0.000000 0.000000",
+                "13690.433594 23.026440 9399.883789|16.631014 0.000000 0.000000",
+                "11377.929688 5.515712 9885.477539|111.759438 -0.000000 -0.000000",
+                "11326.132813 14.802142 10070.644531|22.496120 -0.000000 -0.000000",
+                "10910.374023 5.630271 10305.315430|-135.590073 -0.000000 -0.000000",
+                "3681.207764 18.189508 8716.462891|-91.749222 -0.000000 -0.000000",
+                "3748.648682 9.460462 8829.951172|90.220352 -0.000000 -0.000000",
+                "7160.310547 567.550598 11586.616211|-89.837532 -0.000000 -0.000000",
+                "7184.854492 567.556702 11673.361328|0.000000 -0.000000 -0.000000",
+                "1631.840820 31.981539 12721.944336|-90.072708 -0.000000 -0.000000",
+                "1101.656982 7.878600 13500.229492|176.858566 -0.000000 -0.000000",
+                "1096.171875 7.056400 13464.464844|0.000000 -0.000000 -0.000000",
+                "2120.730225 24.831894 14615.475586|-178.676926 -0.000000 -0.000000",
+                "4124.718750 25.152668 15506.266602|178.102615 -0.000000 -0.000000",
+                "9668.337891 54.037548 15171.297852|-65.094872 -0.000000 -0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Camo_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "TacticalBaconCan",
+                "LC_Table_Weapons_Military_Tier3",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier2",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Ammo_Tier3",
+                "LC_Table_Clothing_Vest_Military_Tier3",
+                "LC_Table_Clothing_Gloves_Military_Tier3",
+                "LC_Table_Clothing_Shirt_Military_Tier3",
+                "LC_Table_Clothing_Pants_Military_Tier3",
+                "LC_Table_Clothing_Boots_Military_Tier3",
+                "LC_Table_Clothing_Bags_Military_Tier3",
+                "LC_Table_Clothing_Helmets_Military_Tier3",
+                "LC_Table_Clothing_Other_Military_Tier3",
+                "LC_Table_Clothing_Other_Military_Tier3",
+                "LC_Table_Items_Military_Tier3",
+                "LC_Table_Items_Military_Tier3",
+                "LC_Table_Items_General",
+                "LC_Table_Items_NBC"
+            ]
+        },
+        {
+            "name": "Secret",
+            "number": 15,
+            "pos": [
+                "4220.459961 14.073400 1492.599976|0.000000 0.000000 0.000000",
+                "6709.695801 38.022221 2650.502930|-99.424965 0.000000 0.000000",
+                "9790.339844 30.575800 1257.060059|-169.605988 0.000000 0.000000",
+                "11272.000000 59.270401 3119.600098|0.000000 0.000000 0.000000",
+                "12379.700195 35.749401 1554.239990|0.000000 0.000000 0.000000",
+                "14634.400391 11.574400 3624.199951|-77.411789 0.000000 0.000000",
+                "13295.500000 130.300003 5743.759766|-115.297997 0.000000 0.000000",
+                "8956.849609 66.887001 3994.060059|100.014992 0.000000 0.000000",
+                "5135.450195 14.487800 615.817017|161.808990 0.000000 0.000000",
+                "2559.399902 22.556101 3618.290039|-31.898600 0.000000 0.000000",
+                "2732.050049 32.425499 5039.229980|138.369003 0.000000 0.000000",
+                "4877.520020 120.814003 3759.729980|-70.262390 0.000000 0.000000",
+                "5807.229980 37.687801 4787.879883|-39.270100 0.000000 0.000000",
+                "7415.779785 46.000900 4964.430176|-19.975800 0.000000 0.000000",
+                "8391.849609 12.628800 5362.350098|31.494499 0.000000 0.000000",
+                "9939.519531 69.832397 4863.790039|-56.724697 0.000000 0.000000",
+                "6209.319824 92.560799 5936.720215|0.000000 0.000000 0.000000",
+                "4718.990234 77.225197 6669.649902|0.000000 0.000000 0.000000",
+                "6287.250000 72.378998 7476.720215|0.000000 0.000000 0.000000",
+                "7682.930176 2.823370 7932.379883|-85.502083 0.000000 0.000000",
+                "9773.009766 34.246300 6710.759766|112.898003 0.000000 0.000000",
+                "13121.700195 14.119900 9949.750000|-74.408302 0.000000 0.000000",
+                "10954.599609 5.379910 10265.400391|-167.419983 0.000000 0.000000",
+                "1733.420044 10.535100 6589.509766|53.511696 0.000000 0.000000",
+                "5729.839844 2.450740 7798.209961|148.427979 0.000000 0.000000",
+                "3633.770020 11.439600 8021.759766|74.897888 0.000000 0.000000",
+                "3946.449951 11.568200 9390.790039|-50.785301 0.000000 0.000000",
+                "2035.000000 9.322600 9242.469727|-120.382996 0.000000 0.000000",
+                "6916.959961 131.910995 9475.660156|-90.292892 0.000000 0.000000",
+                "8404.129883 23.312099 9539.080078|0.000000 0.000000 0.000000",
+                "4469.930176 6.671600 11346.000000|-153.835983 0.000000 0.000000",
+                "9432.759766 7.130970 10960.900391|129.968979 0.000000 0.000000",
+                "9454.980469 32.164799 12659.400391|-72.822090 0.000000 0.000000",
+                "6580.720215 40.817501 14271.299805|-113.481995 0.000000 0.000000",
+                "2705.070068 11.055700 13596.000000|80.493195 0.000000 0.000000",
+                "1973.800049 15.091800 12197.700195|-88.903191 0.000000 0.000000",
+                "1150.849976 34.242100 12484.200195|0.000000 0.000000 0.000000",
+                "1355.630005 11.820000 15203.400391|42.615601 0.000000 0.000000",
+                "10062.700195 49.171101 15056.400391|0.000000 0.000000 0.000000",
+                "15840.000000 22.286100 5191.500000|60.339397 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key9",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_HiddenStash_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": [
+                "FOG_GPNVG_Elite",
+                "jmc_BearPeltGhillieBrown_m",
+                "LC_Table_Weapons_Secret",
+                "LC_Table_Ghillie_Secret",
+                "LC_Table_Items_Secret"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_Saint556",
+            "weapon": "SNAFU_Saint556_Gun",
+            "magazine": "SNAFU_BMAG556_BLACK",
+            "attachments": [
+                "SNAFUMDAR_Supp_Black",
+                "SNAF_MOE_STOCK",
+                "SNAFU_MK10",
+                "SANFU_FGCR_Grip",
+                "SNAFU_TACGripColtA2_Black",
+                "SNAFUUniversalLight",
+                "SNAFU_PEQ1_Laser"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_HoneyBadger",
+            "weapon": "SNAFUHoneyBadger_Tan",
+            "magazine": "SNAFU_BMAG300_Tan",
+            "attachments": [
+                "SNAFU_AFG_02_Tan"
+            ],
+            "optic": "SNAFU_Tango6T_Tan",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_RSASSDKMC",
+            "weapon": "SNAFURSASS_dkmc_GUN",
+            "magazine": "SNAFURSASS_Mag",
+            "attachments": [
+                "SNAFUGevar_Suppressor_Green",
+                "SNAFU_FGKAC_Grip",
+                "SNAFUUniversalLight"
+            ],
+            "optic": "SNAFU_Tango6T_Wood",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AWM338",
+            "weapon": "SNAFU_AWM_GUN",
+            "magazine": "SNAFU_AWM_Mag",
+            "attachments": [
+                "SNAFUKivaari_338_Supp"
+            ],
+            "optic": "SNAFU_Kahles",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Kivaari",
+            "weapon": "SNAFUKivaari_Tan_GUN",
+            "magazine": "SNAFU_Kivaari_25rnd",
+            "attachments": [
+                "SNAFUKivaari_338_Supp",
+                "SNAFU_Bipod"
+            ],
+            "optic": "SNAFU_Tango6T_Tan",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_Glock19",
+            "weapon": "SN_Glock19",
+            "magazine": "Mag_Glock_15Rnd",
+            "attachments": [
+                "PistolSuppressor",
+                "TLRLight"
+            ],
+            "optic": "SNAFU_Docter",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_Mp443",
+            "weapon": "SN_Mp443",
+            "magazine": "SN_Mp443_Mag",
+            "attachments": [
+                "PistolSuppressor",
+                "TLRLight"
+            ],
+            "optic": "SNAFU_Docter",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_PDW_9mm",
+            "weapon": "SNAFU_PDW_9mm",
+            "magazine": "SNAFU_PDW_9mm_Mag",
+            "attachments": [
+                "PistolSuppressor",
+                "UniversalLight"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_USP",
+            "weapon": "SN_USP",
+            "magazine": "SN_USP_Mag",
+            "attachments": [
+                "PistolSuppressor",
+                "TLRLight"
+            ],
+            "optic": "SNAFU_Docter",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_SNAFUUzi",
+            "weapon": "SNAFUUzi",
+            "magazine": "SNAFUUzi_32rdMag",
+            "attachments": [
+                "SNAFU_SPMOD"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_MP9_GUN",
+            "weapon": "SNAFU_MP9_GUN",
+            "magazine": "SNAFU_MP9_30rnd_Mag",
+            "attachments": [
+                "SNAFU_SPMOD"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_GCGN_MP7",
+            "weapon": "GCGN_MP7",
+            "magazine": "GCGN_MP7_40Rnd",
+            "attachments": [
+                "SNAFU_SPMOD"
+            ],
+            "optic": "SNAFU_EOTech_EXPS3",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Spas12_Gun",
+            "weapon": "Spas12_Gun",
+            "magazine": "",
+            "attachments": [
+                "SNAFU_Shotgunchoke_Black"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_VR80_Gun",
+            "weapon": "VR80_Gun",
+            "magazine": "VR80_Magazine_10rd",
+            "attachments": [
+                "UniversalLight",
+                "SNAFU_Shotgunchoke_Black"
+            ],
+            "optic": "SNAFU_Kobra",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SN_Auto_Shotgun",
+            "weapon": "SN_Auto_Shotgun",
+            "magazine": "SN_Auto_Shotgun_Mag",
+            "attachments": [
+                "SNAFU_Shotgunchoke_Black"
+            ],
+            "optic": "SNAFU_Kobra",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Tec9_Gun",
+            "weapon": "Tec9_Gun",
+            "magazine": "Tec9_Mag",
+            "attachments": [
+                "SNAFU_MPX_Suppressor_Black"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SNAFU_RPK16_Black",
+            "weapon": "SNAFU_RPK16_Black",
+            "magazine": "SNAFU_RPK16_Black_Mag",
+            "attachments": [
+                "UniversalLight",
+                "SNAFUGevar_Suppressor_Black"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFU_AEK545_Gun",
+            "weapon": "SNAFU_AEK545_Gun",
+            "magazine": "SNAFU_RPK16_Black_Mag",
+            "attachments": [
+                "UniversalLight"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AKM",
+            "weapon": "AKM",
+            "magazine": "Mag_AKM_Drum75Rnd_Black",
+            "attachments": [
+                "AK_WoodBttstck_Black",
+                "SNAFU_Normalized_Suppressor_Black",
+                "AK_RailHndgrd_Black"
+            ],
+            "optic": "SNAFU_AKTango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ527_Black",
+            "weapon": "CZ527_Black",
+            "magazine": "Mag_CZ527_5rnd",
+            "attachments": [
+                "SNAFUAR15_SPR_SIL"
+            ],
+            "optic": "SNAFU_HLeupold_Mark8",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SKS_Black",
+            "weapon": "SKS_Black",
+            "magazine": "",
+            "attachments": [
+                "SNAFUGevar_Suppressor_Black"
+            ],
+            "optic": "SNAFU_MTango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_HK416_Gun",
+            "weapon": "HK416_Gun",
+            "magazine": "SNAFU_CMAG60556_Black",
+            "attachments": [
+                "UniversalLight",
+                "SNAFU_Agram_Suppressor_Black",
+                "SNAFU_FGKAC_Grip"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        }, 
+        {
+            "defname": "LC_predefined_MK18_Gun",
+            "weapon": "MK18_Gun",
+            "magazine": "SNAFU_CMAG60556_Black",
+            "attachments": [
+                "UniversalLight",
+                "SNAFUGevar_Suppressor_Green",
+                "SNAFU_FGCR_Grip"
+            ],
+            "optic": "SNAFU_Tango6T_Wood",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SNAFUAlligator",
+            "weapon": "SNAFUAlligator",
+            "magazine": "SNAFUAlligator_5rdMag",
+            "attachments": [
+            ],
+            "optic": "SNAFU_HuntingOptic",
+            "opticbattery": 1
+        },   
+        {
+            "defname": "LC_predefined_GCGN_M700",
+            "weapon": "GCGN_M700",
+            "magazine": "GCGN_M700_Mag",
+            "attachments": [
+            ],
+            "optic": "SNAFU_HuntingOptic",
+            "opticbattery": 1
+        },  
+        {
+            "defname": "LC_predefined_SNAFU_M48",
+            "weapon": "SNAFU_M48",
+            "magazine": "",
+            "attachments": [
+            ],
+            "optic": "SNAFU_MHuntingOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_SCAR_Gun",
+            "weapon": "SCAR_Gun",
+            "magazine": "SNAFU_CMAG60556_Tan",
+            "attachments": [
+                "UniversalLight",
+                "Snafu_ScarH_SIL_Tan",
+                "SNAFUScar_AFG_Tan"
+            ],
+            "optic": "SNAFU_Tango6T_Tan",
+            "opticbattery": 1
+        },    
+        {
+            "defname": "LC_predefined_AK101_Black",
+            "weapon": "AK101_Black",
+            "magazine": "Mag_AK101_30Rnd_Black",
+            "attachments": [
+                "AK_RailHndgrd_Black",
+                "AK_WoodBttstck_Black"
+            ],
+            "optic": "SNAFU_AKTango6T_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_M4A1_Green",
+            "weapon": "M4A1_Green",
+            "magazine": "Mag_CMAG_40Rnd_Green",
+            "attachments": [
+                "M4_OEBttstck_Green",
+                "SNAFU_LStandardized_Suppressor_Green",
+                "M4_RISHndgrd_Green"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },      
+        {
+            "defname": "LC_predefined_SG550_Gun",
+            "weapon": "SG550_Gun",
+            "magazine": "SG550_Mag",
+            "attachments": [
+                "SNAFU_Standardized_Suppressor_Green"
+            ],
+            "optic": "SNAFU_Tango6T_Wood",
+            "opticbattery": 1
+        },   
+        {
+            "defname": "LC_predefined_Mosin9130_Black",
+            "weapon": "Mosin9130_Black",
+            "magazine": "SG550_Mag",
+            "attachments": [
+                "SNAFU_SR25_Supp"
+            ],
+            "optic": "SNAFU_MHuntingOptic",
+            "opticbattery": 1
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Medical_Salve_Hematoma_Bruise_Tier1",
+            "Loot": [
+                "SalveKapsikam"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Salve_Hematoma_Bruise_Tier2",
+            "Loot": [
+                "SalveViprosal"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Salve_Hematoma_Bruise_Tier3",
+            "Loot": [
+                "SalveFinalgon"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Cold_Influenza_Pneumonia_Tier1",
+            "Loot": [
+                "TabletsParacetamol",
+                "TabletsAmibaktam",
+                "TabletsTrihopol",
+                "TabletsCyprolet"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Cold_Influenza_Pneumonia_Tier2",
+            "Loot": [
+                "TabletsIbuprofen",
+                "TabletsNurofen",
+                "TabletsAmoksivan",
+                "TabletsAmpicylin",
+                "TabletsPiperacylin",
+                "TabletsAmoksiklav"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Cold_Influenza_Pneumonia_Tier2",
+            "Loot": [
+                "AmpouleGrimipenem",
+                "AmpouleZeftriaxon",
+                "AmpouleCylaspen",
+                "AmpouleErytromicyn",
+                "AmpouleKetorol",
+                "AmpouleDiklofenak"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Cold_Influenza_Pneumonia_Tier2",
+            "Loot": [
+                "InjectorKetorol"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Cold_Influenza_Pneumonia_Tier3",
+            "Loot": [
+                "AmpouleDiklofenak",
+                "AmpouleFlemoclav",
+                "AmpouleOcsacylin",
+                "AmpouleImipenem",
+                "InjectorAmoksivan"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Cold_Influenza_Pneumonia_Tier3",
+            "Loot": [
+                "InjectorAmoksivan"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Pain_Tier1",
+            "Loot": [
+                "TabletsNoopept",
+                "TabletsAnalgin",
+                "TabletsCytramon",
+                "TabletsIbuprofen",
+                "TabletsNurofen",
+                "TabletsMovalis",
+                "TabletsPentalgin",
+                "TabletsParacetamol",
+                "TabletsAertal",
+                "TabletsNimesil",
+                "TabletsNaiz"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Pain_Tier2",
+            "Loot": [
+                "AmpouleKetorol",
+                "AmpouleKetamin",
+                "AmpouleIrineks",
+                "AmpouleGexobarbital",
+                "AmpouleNovocain",
+                "AmpouleNimesulid",
+                "AmpouleKetoprofen"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Pain_Tier3",
+            "Loot": [
+                "AmpoulePropanidid",
+                "AmpouleTiopental",
+                "AmpoulePropofol",
+                "AmpouleSodiumOxybutirate"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Pain_Tier3",
+            "Loot": [
+                "InjectorKetorol"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Stomach_Tier1",
+            "Loot": [
+                "TabletsCharcoal",
+                "TabletsMezimForte",
+                "TabletsZerukal",
+                "TabletsEnterofuril",
+                "TabletsFtalazol",
+                "TabletsSalofalk",
+                "TabletsNifuroksazid",
+                "TabletsKarbopekt",
+                "TabletsPolisorb",
+                "TabletsMesalazin",
+                "TabletsErsefuril"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Stomach_Tier2",
+            "Loot": [
+                "AmpouleMetoclopramid",
+                "AmpouleZerukal",
+                "InjectorKetorol",
+                "AmpouleHeptral"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Stomach_Tier3",
+            "Loot": [
+                "InjectorKetorol"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Mental_State_Tier1",
+            "Loot": [
+                "TabletsActaparoxetine",
+                "TabletsAgteminol",
+                "TabletsAdepress",
+                "TabletsVenlafaxine",
+                "TabletsAmitriptyline"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Mental_State_Tier2",
+            "Loot": [
+                "AmpouleMetralindol",
+                "AmpouleActaparoxetine",
+                "AmpouleAmitriptyline"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Sepsis_Tier1",
+            "Loot": [
+                "AmpouleFlemoclav"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Sepsis_Tier2",
+            "Loot": [
+                "AmpouleOcsacylin",
+                "AmpouleImipenem"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Sepsis_Tier3",
+            "Loot": [
+                "InjectorAmoksivan"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Sepsis_Tier2",
+            "Loot": [
+                "InjectorTopoizomeraza"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Sepsis_Tier3",
+            "Loot": [
+                "InjectorAmoksivan"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_ZVirus_Tier3",
+            "Loot": [
+                "AmpouleZivirol"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_ZVirus_Tier3",
+            "Loot": [
+                "InjectorZivirol"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Concussion_Tier1",
+            "Loot": [
+                "TabletsNoopept"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Concussion_Tier2",
+            "Loot": [
+                "AmpouleActovegin",
+                "AmpouleMeksidol",
+                "AmpouleNeiroks"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Concussion_Tier3",
+            "Loot": [
+                "InjectorNeiroks"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Blood_Hematopoiesis_Tier1",
+            "Loot": [
+                "TabletsIrovit",
+                "TabletsTardiferon",
+                "TabletsHeferol",
+                "TabletsSorbiferDurulis"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Blood_Hematopoiesis_Tier2",
+            "Loot": [
+                "AmpoulePerftoran",
+                "AmpouleMaltofer",
+                "AmpouleErytropoenin"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Blood_Hematopoiesis_Tier3",
+            "Loot": [
+                "InjectorErytropoenin"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Tablets_Blood_Hemostatic_Tier1",
+            "Loot": [
+                "TabletsVikasol",
+                "TabletsDycinon",
+                "TabletsSorbiferDurulis"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Ampoule_Blood_Hemostatic_Tier2",
+            "Loot": [
+                "AmpouleNonacogAlpha",
+                "AmpouleAminokaprolSulfat",
+                "AmpouleVikasol",
+                "AmpouleErytropoenin",
+                "AmpouleEtamzilat"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Injector_Blood_Hemostatic_Tier3",
+            "Loot": [
+                "InjectorErytropoenin"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Items_Tier1",
+            "Loot": [
+                "BandageHemostatic",
+                "SurgicalKit",
+                "SyringeEmpty",
+                "SodaCan_MadBull",
+                "MedContainerSmall"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Items_Tier2",
+            "Loot": [
+                "BandageHemostatic",
+                "SurgicalKit",
+                "SyringeEmpty",
+                "SodaCan_MadBull",
+                "MedContainerMedium"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Items_Tier3",
+            "Loot": [
+                "BandageHemostatic",
+                "SurgicalKit",
+                "SyringeEmpty",
+                "SodaCan_MadBull",
+                "MedContainerLarge",
+                "Stethoscope"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Items_Base",
+            "Loot": [
+                "BloodBagEmpty",
+                "StartKitIV",
+                "BandageDressing",
+                "SalineBag",
+                "VitaminBottle",
+                "PurificationTablets",
+                "IodineTincture",
+                "DisinfectantAlcohol",
+                "DisinfectantSpray"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Random_Tier1",
+            "Loot": [
+                "SalveFinalgon",
+                "TabletsAmibaktam",
+                "TabletsParacetamol",
+                "TabletsTrihopol",
+                "TabletsCyprolet",
+                "TabletsNoopept",
+                "TabletsAnalgin",
+                "TabletsCytramon",
+                "TabletsNurofen",
+                "TabletsMovalis",
+                "TabletsPentalgin",
+                "TabletsAertal",
+                "TabletsNimesil",
+                "TabletsNaiz",
+                "TabletsCharcoal",
+                "TabletsMezimForte",
+                "TabletsZerukal",
+                "TabletsEnterofuril",
+                "TabletsFtalazol",
+                "TabletsSalofalk",
+                "TabletsNifuroksazid",
+                "TabletsKarbopekt",
+                "TabletsPolisorb",
+                "TabletsMesalazin",
+                "TabletsErsefuril",
+                "TabletsActaparoxetine",
+                "TabletsAgteminol",
+                "TabletsAdepress",
+                "TabletsVenlafaxine",
+                "TabletsIrovit",
+                "TabletsTardiferon",
+                "TabletsHeferol",
+                "TabletsSorbiferDurulis",
+                "TabletsVikasol",
+                "TabletsDycinon"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Random_Tier2",
+            "Loot": [
+                "SalveViprosal",
+                "TabletsIbuprofen",
+                "TabletsAmoksivan",
+                "TabletsAmpicylin",
+                "TabletsPiperacylin",
+                "TabletsAmoksiklav",
+                "AmpouleGrimipenem",
+                "AmpouleZeftriaxon",
+                "AmpouleCylaspen",
+                "AmpouleErytromicyn",
+                "AmpouleKetorol",
+                "AmpouleDiklofenak",
+                "AmpoulePropanidid",
+                "AmpouleIrineks",
+                "AmpouleGexobarbital",
+                "AmpouleNovocain",
+                "AmpouleNimesulid",
+                "AmpouleKetoprofen",
+                "AmpouleMetoclopramid",
+                "AmpouleZerukal",
+                "AmpouleHeptral",
+                "AmpouleMetralindol",
+                "AmpouleActaparoxetine",
+                "AmpouleAmitriptyline",
+                "AmpouleActovegin",
+                "AmpouleMeksidol",
+                "AmpouleNeiroks",
+                "AmpoulePerftoran",
+                "AmpouleMaltofer",
+                "AmpouleErytropoenin",
+                "AmpouleNonacogAlpha",
+                "AmpouleAminokaprolSulfat",
+                "AmpouleEtamzilat",
+                "AmpouleZivirol"
+            ]
+        },
+        {
+            "name": "LC_Table_Medical_Random_Tier3",
+            "Loot": [
+                "SalveKapsikam",
+                "AmpouleFlemoclav",
+                "AmpouleOcsacylin",
+                "AmpouleImipenem",
+                "AmpouleAmoksivan",
+                "InjectorAmoksivan",
+                "AmpouleKetamin",
+                "AmpouleTiopental",
+                "AmpoulePropofol",
+                "AmpouleSodiumOxybutirate",
+                "InjectorTopoizomeraza",
+                "InjectorZivirol",
+                "InjectorNeiroks",
+                "InjectorErytropoenin|0.05"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Police_Tier1",
+            "Loot": [
+                "LC_predefined_SN_Glock19",
+                "LC_predefined_SN_Mp443",
+                "LC_predefined_SNAFU_PDW_9mm",
+                "LC_predefined_SN_USP"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Police_Tier2",
+            "Loot": [
+                "LC_predefined_SNAFU_SNAFUUzi",
+                "LC_predefined_SNAFU_MP9_GUN",
+                "LC_predefined_GCGN_MP7",
+                "LC_predefined_Spas12_Gun",
+                "LC_predefined_VR80_Gun",
+                "LC_predefined_SN_Auto_Shotgun",
+                "LC_predefined_Tec9_Gun"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Police_Tier3",
+            "Loot": [
+                "LC_predefined_SNAFU_RPK16_Black",
+                "LC_predefined_SNAFU_AEK545_Gun",
+                "LC_predefined_AKM",
+                "LC_predefined_CZ527_Black",
+                "LC_predefined_SKS_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Vest_Police_Tier1",
+            "Loot": [
+                "UKAssVest_Camo",
+                "UKAssVest_Khaki",
+                "UKAssVest_Black",
+                "UKAssVest_Camo"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Vest_Police_Tier2",
+            "Loot": [
+                "HighCapacityVest_Black",
+                "HighCapacityVest_Olive"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Vest_Police_Tier3",
+            "Loot": [
+                "PlateCarrierVest_Black",
+                "PlateCarrierVest_Camo",
+                "PlateCarrierVest_Green"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Gloves_Police_Tier1",
+            "Loot": [
+                "WorkingGloves_Beige",
+                "WorkingGloves_Black",
+                "WorkingGloves_Brown",
+                "WorkingGloves_Yellow"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Gloves_Police_Tier2",
+            "Loot": [
+                "TacticalGloves_Beige",
+                "TacticalGloves_Black",
+                "TacticalGloves_Green"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Gloves_Police_Tier3",
+            "Loot": [
+                "TacticalGloves_Beige",
+                "TacticalGloves_Black",
+                "TacticalGloves_Green"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Shirt_Police_Tier1",
+            "Loot": [
+                "USMCJacket_Desert",
+                "USMCJacket_Woodland"
+            ]
+        },  
+        {
+            "name": "LC_Table_Clothing_Shirt_Police_Tier2",
+            "Loot": [
+                "TacticalShirt_Black",
+                "TacticalShirt_Grey",
+                "TacticalShirt_Olive",
+                "TacticalShirt_Tan"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Shirt_Police_Tier3",
+            "Loot": [
+                "M65Jacket_Black",
+                "M65Jacket_Khaki",
+                "M65Jacket_Olive",
+                "M65Jacket_Tan"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Pants_Police_Tier1",
+            "Loot": [  
+                "USMCPants_Desert",
+                "USMCPants_Woodland"
+            ]
+        },   
+        {
+            "name": "LC_Table_Clothing_Pants_Police_Tier2",
+            "Loot": [  
+                "CargoPants_Beige",
+                "CargoPants_Black",
+                "CargoPants_Blue",
+                "CargoPants_Green",
+                "CargoPants_Grey"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Pants_Police_Tier3",
+            "Loot": [  
+                "HunterPants_Autumn",
+                "HunterPants_Brown",
+                "HunterPants_Spring",
+                "HunterPants_Summer",
+                "HunterPants_Winter"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Boots_Police_Tier1",
+            "Loot": [  
+                "JungleBoots_Beige",
+                "JungleBoots_Black",
+                "JungleBoots_Brown",
+                "JungleBoots_Green",
+                "JungleBoots_Olive"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Boots_Police_Tier2",
+            "Loot": [  
+                "CombatBoots_Beige",
+                "CombatBoots_Black",
+                "CombatBoots_Brown",
+                "CombatBoots_Green",
+                "CombatBoots_Grey"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Boots_Police_Tier3",
+            "Loot": [  
+                "MilitaryBoots_Beige",
+                "MilitaryBoots_Black",
+                "MilitaryBoots_Bluerock",
+                "MilitaryBoots_Brown",
+                "MilitaryBoots_Redpunk"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Other_Police_Tier1",
+            "Loot": [  
+                "TacticalGoggles",
+                "CivilianBelt",
+                "PlateCarrierHolster_Camo"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Other_Police_Tier2",
+            "Loot": [  
+                "TacticalGoggles",
+                "MilitaryBelt",
+                "NylonKnifeSheath"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Other_Police_Tier3",
+            "Loot": [  
+                "TacticalGoggles",
+                "MilitaryBelt",
+                "PlateCarrierPouches_Black",
+                "PlateCarrierPouches_Camo",
+                "PlateCarrierPouches_Green",
+                "NVGHeadstrap"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Police_Tier1",
+            "Loot": [
+                "FlashGrenade",
+                "M18SmokeGrenade_Green",
+                "M18SmokeGrenade_Purple"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Police_Tier2",
+            "Loot": [
+                "M67Grenade",
+                "RGD5Grenade"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Police_Tier3",
+            "Loot": [
+                "Grenade_Chemgas",
+                "LandMineTrap"
+            ]
+        },
+        {
+            "name": "LC_Table_Industrial_BBP_Tier1",
+            "Loot": [
+                "BBP_Wood_Storage",
+                "BBP_XmasLights_9v",
+                "BBP_XmasLights_Solar"
+            ]
+        },
+        {
+            "name": "LC_Table_Industrial_BBP_Tier2",
+            "Loot": [
+                "BBP_Mesh_Gate_Kit",
+                "BBP_Metal_Stair_Kit",
+                "BBP_Metal_Stair_Kit",
+                "BBP_Floor_Mesh_Kit",
+                "BBP_Mesh_Fence_Kit",
+                "BBP_Mesh_Gate_Kit",
+                "BBP_Tape_Measure"
+            ]
+        },
+        {
+            "name": "LC_Table_Industrial_BBP_Tier3",
+            "Loot": [
+                "BBP_Cement",
+                "BBP_Mortar_Mix",
+                "BBP_Blueprint",
+                "BBP_SolarPlus_PanelKit",
+                "BBP_SolarPlus",
+                "BBP_WellKit",
+                "BBP_Cement_Mixer_Kit"
+            ]
+        },
+        {
+            "name": "LC_Table_Industrial_Tools_General",
+            "Loot": [
+                "Screwdriver",
+                "Pliers",
+                "Hammer",
+                "SledgeHammer",
+                "Handsaw",
+                "Hacksaw",
+                "Pliers",
+                "Shovel",
+                "Pickaxe"
+            ]
+        },
+        {
+            "name": "LC_Table_Industrial_Items_General",
+            "Loot": [
+                "Battery9V",
+                "CarBattery",
+                "TruckBattery",
+                "MetalWire",
+                "EngineOil"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Military_Tier1",
+            "Loot": [
+                "LC_predefined_HK416_Gun",
+                "LC_predefined_MK18_Gun"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Military_Tier2",
+            "Loot": [
+                "LC_predefined_SCAR_Gun",
+                "LC_predefined_AK101_Black",
+                "LC_predefined_M4A1_Green",
+                "LC_predefined_SG550_Gun",
+                "LC_predefined_Mosin9130_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Military_Tier3",
+            "Loot": [
+                "LC_predefined_Saint556",
+                "LC_predefined_HoneyBadger",
+                "LC_predefined_AWM338",
+                "LC_predefined_Kivaari",
+                "LC_predefined_SNAFUDVL10M2",
+                "LC_predefined_SNAFUSRSA2"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Vest_Military_Tier1",
+            "Loot": [
+                "FOG_Vest_PACA_Black",
+                "FOG_Vest_LVMBAV_CB",
+                "FOG_Vest_LVMBAV_RG",
+                "FOG_Vest_LVMBAV_Black",
+                "FOG_Vest_LVMBAV_Tan",
+                "FOG_Vest_D3CRX_CB",
+                "FOG_Vest_D3CRX_RG",
+                "FOG_Vest_D3CRX_Black",
+                "FOG_Vest_D3CRX_Grey",
+                "FOG_Vest_SSMK4_CB",
+                "FOG_Vest_SSMK4_CB",
+                "FOG_Vest_SSMK4_RG",
+                "FOG_Vest_SSMK4_Black",
+                "FOG_Vest_SSMK4_Grey",
+                "FOG_Vest_SSMK4_MC",
+                "FOG_Vest_SSMK4_MCA",
+                "FOG_Vest_SSMK4_MCT",
+                "FOG_Vest_SSMK4_M81"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Vest_Military_Tier2",
+            "Loot": [
+                "FOG_Vest_LV119_CB",
+                "FOG_Vest_LV119_RG",
+                "FOG_Vest_LV119_Black",
+                "FOG_Vest_LV119_MC",
+                "FOG_Vest_FCPC_MC",
+                "FOG_Vest_FCPC_RG",
+                "FOG_Vest_FCPC_CB",
+                "FOG_Vest_FCPC_Black",
+                "FOG_Vest_FCPC_MCB",
+                "FOG_Vest_FCPC_M81",
+                "FOG_Vest_FCPC_Grey",
+                "FOG_Vest_TacTec_CB",
+                "FOG_Vest_TacTec_RG",
+                "FOG_Vest_TacTec_Black",
+                "FOG_Vest_TacTec_Grey",
+                "FOG_Vest_JPC_CB",
+                "FOG_Vest_JPC_MC",
+                "FOG_Vest_JPC_Black",
+                "FOG_Vest_JPC_RG",
+                "FOG_Vest_JPC_AOR1",
+                "FOG_Vest_JPC_AOR2",
+                "FOG_Vest_JPC_ALP",
+                "FOG_Vest_AVS_MC",
+                "FOG_Vest_AVS_CB",
+                "FOG_Vest_AVS_Black",
+                "FOG_Vest_AVS_RG",
+                "FOG_Vest_AVS_AOR1",
+                "FOG_Vest_AVS_AOR2",
+                "FOG_Vest_AVS_ALP"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Vest_Military_Tier3",
+            "Loot": [
+                "FOG_Vest_Thor_Tan",
+                "FOG_Vest_Thor_Black",
+                "FOG_Vest_Thor_Green",
+                "FOG_Vest_Thor_EMR",
+                "FOG_Vest_Thor_MC",
+                "FOG_Vest_Thor_MCB",
+                "FOG_Vest_Thor_M81",
+                "FOG_Vest_Osprey_MC",
+                "FOG_Vest_Osprey_RG",
+                "FOG_Vest_Osprey_Grey",
+                "FOG_Vest_Osprey_CB",
+                "FOG_Vest_Osprey_Black",
+                "FOG_Vest_TV110T_Tan",
+                "FOG_Vest_TV110T_CB",
+                "FOG_Vest_TV110T_Black",
+                "FOG_Vest_TV110T_RG",
+                "FOG_Vest_TV110T_AU",
+                "FOG_Vest_TV110T_FG",
+                "FOG_Vest_TV110T_MC",
+                "FOG_Vest_MMAC_MC",
+                "FOG_Vest_MMAC_CB",
+                "FOG_Vest_MMAC_Black",
+                "FOG_Vest_MMAC_RG",
+                "FOG_Vest_MMAC_AOR2",
+                "FOG_Vest_Gen4_Black",
+                "FOG_Vest_Gen4_Green",
+                "FOG_Vest_Gen4_Tan",
+                "FOG_Vest_Gen4_EMR",
+                "FOG_Vest_Gen4_UCP",
+                "FOG_Vest_Gen4_NWU",
+                "FOG_Vest_Gen4_MARPAT"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Gloves_Military_Tier1",
+            "Loot": [
+                "FOG_GunGloves_Tan",
+                "FOG_GunGloves_Grey",
+                "FOG_GunGloves_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Gloves_Military_Tier2",
+            "Loot": [
+                "FOG_GunGloves_CB",
+                "FOG_GunGloves_RG",
+                "FOG_GunGloves_MC",
+                "FOG_GunGloves_MCB",
+                "FOG_GunGloves_M81",
+                "FOG_GunGloves_AOR2"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Gloves_Military_Tier3",
+            "Loot": [
+                "FOG_Tactical_Fingerless_Gloves_Green",
+                "FOG_Tactical_Fingerless_Gloves_Black",
+                "FOG_Tactical_Fingerless_Gloves_Tan",
+                "FOG_Tactical_Fingerless_Gloves_MC"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Shirt_Military_Tier1",
+            "Loot": [
+                "FOG_UFJ_Shirt_RG",
+                "FOG_UFJ_Shirt_CB",
+                "FOG_UFJ_Shirt_Black",
+                "FOG_UFJ_Shirt_Grey",
+                "FOG_UFJ_Shirt_ERDL",
+                "FOG_UFJ_Shirt_ERDL_RG"
+            ]
+        },  
+        {
+            "name": "LC_Table_Clothing_Shirt_Military_Tier2",
+            "Loot": [
+                "FOG_Enhanced_PCU_MC",
+                "FOG_Enhanced_PCU_Black",
+                "FOG_Enhanced_PCU_Grey",
+                "FOG_Enhanced_PCU_Tan",
+                "FOG_Enhanced_PCU_RG",
+                "FOG_Hoodie_Jacket_Black",
+                "FOG_Hoodie_Jacket_MC",
+                "FOG_Hoodie_Jacket_ERDL",
+                "FOG_Hoodie_Jacket_PERDL",
+                "FOG_Hoodie_Jacket_Rolled_Black",
+                "FOG_Hoodie_Jacket_Rolled_MC",
+                "FOG_Hoodie_Jacket_Rolled_ERDL",
+                "FOG_Hoodie_Jacket_Rolled_PERDL",
+                "FOG_Gorka_Jacket_Khaki",
+                "FOG_Gorka_Jacket_Black",
+                "FOG_Gorka_Jacket_Green",
+                "FOG_Gorka_Jacket_Partizan",
+                "FOG_Gorka_Jacket_Autumn",
+                "FOG_Gorka_Jacket_Summer",
+                "FOG_Hooded_Parka_OG",
+                "FOG_Hooded_Parka_Black",
+                "FOG_Hooded_Parka_RG",
+                "FOG_Hooded_Parka_CB",
+                "FOG_Hooded_Parka_MC",
+                "FOG_Hooded_Parka_ALP",
+                "FOG_Crye_G3_Shirt_Black",
+                "FOG_Crye_G3_Shirt_CB",
+                "FOG_Crye_G3_Shirt_RG",
+                "FOG_Crye_G3_Shirt_Grey",
+                "FOG_Crye_G3_Shirt_Blue",
+                "FOG_Crye_G3_Shirt_KHK",
+                "FOG_Crye_G3_Shirt_RG_BlackTrim"
+            ]
+        },  
+        {
+            "name": "LC_Table_Clothing_Shirt_Military_Tier3",
+            "Loot": [
+                "FOG_Shirt_ISOF_Jacket_Black",
+                "FOG_Shirt_ISOF_Jacket_MC",
+                "FOG_Shirt_ISOF_Jacket_M81",
+                "FOG_Cronen_Shirt_Black",
+                "FOG_Cronen_Shirt_RG",
+                "FOG_Cronen_Shirt_CB",
+                "FOG_Cronen_Shirt_MC",
+                "FOG_Jacket_SoftShell_Tan",
+                "FOG_Jacket_SoftShell_Black",
+                "FOG_Jacket_SoftShell_ERDL",
+                "FOG_Jacket_SoftShell_MC",
+                "FOG_Jacket_SoftShell_RG",
+                "FOG_Tactical_Fleece_Grey",
+                "FOG_Tactical_Fleece_Black",
+                "FOG_Tactical_Fleece_RG",
+                "FOG_Tactical_Fleece_CB",
+                "FOG_Tactical_Fleece_MC",
+                "FOG_Tactical_Fleece_Arctic",
+                "FOG_G2_Hoodie_MC",
+                "FOG_G3_Hoodie_MC",
+                "FOG_G3_Hoodie_Black",
+                "FOG_G3_Hoodie_Blue",
+                "FOG_G3_Hoodie_DPM",
+                "FOG_G3_Hoodie_MC_Pata",
+                "FOG_G3_Hoodie_AOR1",
+                "FOG_G3_Hoodie_AOR2",
+                "FOG_G3_Hoodie_M81",
+                "FOG_Crye_G3_Shirt_MC",
+                "FOG_Crye_G3_Shirt_MCB",
+                "FOG_Crye_G3_Shirt_MCT",
+                "FOG_Crye_G3_Shirt_MCA",
+                "FOG_Crye_G3_Shirt_MCAL",
+                "FOG_Crye_G3_Shirt_6CD",
+                "FOG_Crye_G3_Shirt_AOR1",
+                "FOG_Crye_G3_Shirt_AOR2",
+                "FOG_Crye_G3_Shirt_DCU",
+                "FOG_Crye_G3_Shirt_DTGR",
+                "FOG_Crye_G3_Shirt_M81",
+                "FOG_Crye_G3_Shirt_MARPAT",
+                "FOG_Crye_G3_Shirt_RDBS",
+                "FOG_Crye_G3_Shirt_TGR",
+                "FOG_Crye_G3_Shirt_RG_BlackTrim",
+                "FOG_Crye_G3_Shirt_MC_FRACU",
+                "FOG_Crye_G3_Shirt_MC_BlackTrim",
+                "FOG_Crye_G3_Shirt_MC_Patagonia",
+                "FOG_Crye_G2_Shirt_MC",
+                "FOG_Crye_G3_Shirt_AMCU",
+                "FOG_Crye_G3_Shirt_ALPF",
+                "FOG_Crye_G3_Shirt_DNC",
+                "FOG_Crye_G3_Shirt_DPM",
+                "FOG_Crye_G3_Shirt_ERDL_Red",
+                "FOG_Crye_G3_Shirt_Pantera",
+                "FOG_Crye_G3_Shirt_BTGR",
+                "FOG_Crye_G3_Shirt_KBTGR",
+                "FOG_Crye_G3_Shirt_RTGR",
+                "FOG_Crye_G3_Shirt_UCP"
+            ]
+        },  
+        {
+            "name": "LC_Table_Clothing_Pants_Military_Tier1",
+            "Loot": [  
+                "FOG_UFP_Pants_6CD",
+                "FOG_UFP_Pants_ALP",
+                "FOG_UFP_Pants_Black",
+                "FOG_UFP_Pants_DCU",
+                "FOG_UFP_Pants_Grey",
+                "FOG_UFP_Pants_M81",
+                "FOG_UFP_Pants_MC",
+                "FOG_UFP_Pants_RG",
+                "FOG_UFP_Pants_Tan",
+                "FOG_UFP_Pants_Urban",
+                "FOG_UFP_Pants_White",
+                "FOG_BDU_Pants_Black",
+                "FOG_BDU_Pants_RG",
+                "FOG_BDU_Pants_Tan"
+            ]
+        },   
+        {
+            "name": "LC_Table_Clothing_Pants_Military_Tier2",
+            "Loot": [  
+                "FOG_G99_Pants_Black",
+                "FOG_G99_Pants_CB",
+                "FOG_G99_Pants_RG",
+                "FOG_G99_Pants_M81",
+                "FOG_BDU_Pants_Black",
+                "FOG_BDU_Pants_RG",
+                "FOG_BDU_Pants_Tan",
+                "FOG_Pants_Crye_G3_Black",
+                "FOG_Pants_Crye_G3_CB",
+                "FOG_Pants_Crye_G3_RG",
+                "FOG_Pants_Crye_G3_Grey",
+                "FOG_Pants_Crye_G3_Blue",
+                "FOG_Pants_Crye_G3_KHK",
+                "FOG_Pants_Crye_G3_RG_BlackTrim"
+            ]
+        },  
+        {
+            "name": "LC_Table_Clothing_Pants_Military_Tier3",
+            "Loot": [  
+                "FOG_Pants_Crye_G3_M81",
+                "FOG_Pants_Crye_G3_MC",
+                "FOG_Pants_Crye_G3_MCB",
+                "FOG_Pants_Crye_G3_GTiger",
+                "FOG_Pants_Crye_G3_AOR1",
+                "FOG_Pants_Crye_G3_AOR2",
+                "FOG_Pants_Crye_G3_DTGR",
+                "FOG_Pants_Crye_G3_MARPAT",
+                "FOG_Pants_Crye_G3_MCA",
+                "FOG_Pants_Crye_G3_MCAL",
+                "FOG_Pants_Crye_G3_MCT",
+                "FOG_Pants_Crye_G3_RDBS",
+                "FOG_Pants_Crye_G3_ALPF",
+                "FOG_Pants_Crye_G3_AMCU",
+                "FOG_Pants_Crye_G3_DNC",
+                "FOG_Pants_Crye_G3_DPM",
+                "FOG_Pants_Crye_G3_ERDL_RED",
+                "FOG_Pants_Crye_G3_MC_BlackTrim",
+                "FOG_Pants_Crye_G3_MC_FRACU",
+                "FOG_Pants_Crye_G3_Pantera",
+                "FOG_Pants_Crye_G3_BTGR",
+                "FOG_Pants_Crye_G3_RTGR",
+                "FOG_Pants_Crye_G3_KBTGR",
+                "FOG_Pants_Crye_G3_UCP"
+            ]
+        },  
+        {
+            "name": "LC_Table_Clothing_Boots_Military_Tier1",
+            "Loot": [  
+                "FOG_Operator_Boots_CB",
+                "FOG_Operator_Boots_Black",
+                "FOG_Operator_Boots_RG",
+                "FOG_Lerch_Boots_Black",
+                "FOG_Lerch_Boots_MC",
+                "FOG_Lerch_Boots_MCB",
+                "FOG_Lerch_Boots_Khk",
+                "FOG_Lerch_Boots_RG",
+                "FOG_Lerch_Boots_CB"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Boots_Military_Tier2",
+            "Loot": [  
+                "FOG_Combat_HikingBoots_Brown",
+                "FOG_Combat_HikingBoots_Khaki",
+                "FOG_Combat_HikingBoots_Grey",
+                "FOG_Combat_HikingBoots_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Boots_Military_Tier3",
+            "Loot": [  
+                "FOG_Zypher_Boots_Tan_Socks",
+                "FOG_Zypher_Boots_Black_Socks",
+                "FOG_Zypher_Boots_RG_Socks",
+                "FOG_Zypher_Boots_Tan_NoSocks",
+                "FOG_Zypher_Boots_Black_NoSocks",
+                "FOG_Zypher_Boots_RG_NoSocks"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Bags_Military_Tier1",
+            "Loot": [  
+                "FOG_Bag_DrawBridge_CB",
+                "FOG_Bag_DrawBridge_RG",
+                "FOG_Bag_DrawBridge_Black",
+                "FOG_Bag_DrawBridge_Grey",
+                "FOG_Bag_Trizip_Puke",
+                "FOG_Bag_Trizip_Black",
+                "FOG_Bag_Trizip_RG",
+                "FOG_Bag_Trizip_CB",
+                "FOG_Bag_Trizip_RGCB",
+                "FOG_Bag_Trizip_MARPAT",
+                "FOG_Bag_Trizip_ATACSFG",
+                "FOG_Bag_Trizip_DCU",
+                "FOG_Bag_Trizip_ERDL",
+                "FOG_Bag_Trizip_MC",
+                "FOG_Bag_MRASAP_Black",
+                "FOG_Bag_MRASAP_Grey",
+                "FOG_Bag_MRASAP_RG",
+                "FOG_Bag_MRASAP_CB",
+                "FOG_Bag_MRASAP_MC"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Bags_Military_Tier2",
+            "Loot": [  
+                "FOG_Bag_BlackJack_MC",
+                "FOG_Bag_BlackJack_RG",
+                "FOG_Bag_BlackJack_CB",
+                "FOG_Bag_BlackJack_MCB",
+                "FOG_Bag_BlackJack_ERDL",
+                "FOG_Bag_BlackJack_Black",
+                "FOG_Bag_SSO_Tan",
+                "FOG_Bag_SSO_Black",
+                "FOG_Bag_SSO_MC",
+                "FOG_Bag_SSO_CB",
+                "FOG_Bag_SSO_MCB",
+                "FOG_Bag_SSO_Toxic"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Bags_Military_Tier3",
+            "Loot": [  
+                "FOG_Bergen_Rucksack_Black",
+                "FOG_Bergen_Rucksack_Green",
+                "FOG_Bergen_Rucksack_Woodland",
+                "FOG_Bergen_Rucksack_Multicam",
+                "FOG_Bergen_Rucksack_ERDL",
+                "FOG_Bag_F4Terminator",
+                "FOG_Bag_F4Terminator_Black",
+                "FOG_Bag_F4Terminator_RG",
+                "FOG_Bag_F4Terminator_CB",
+                "FOG_Bag_6ShBagT_Green"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Helmets_Military_Tier1",
+            "Loot": [ 
+                "FOG_Helmet_FAST_Bump_Tan",
+                "FOG_Helmet_FAST_Bump_RG",
+                "FOG_Helmet_FAST_Bump_Black",
+                "FOG_Helmet_FAST_Bump_Grey",
+                "FOG_Helmet_FAST_Bump_MC",
+                "FOG_Helmet_FAST_Bump_MCB",
+                "FOG_Helmet_FAST_Bump_ERDL"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Helmets_Military_Tier2",
+            "Loot": [ 
+                "FOG_Helmet_Exfil_MC",
+                "FOG_Helmet_Exfil_Black",
+                "FOG_Helmet_Exfil_Tan",
+                "FOG_Helmet_Exfil_RG",
+                "FOG_Helmet_Airframe_CB",
+                "FOG_Helmet_Airframe_RG",
+                "FOG_Helmet_Airframe_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Helmets_Military_Tier3",
+            "Loot": [ 
+                "FOG_Helmet_FAST_SF_Tan",
+                "FOG_Helmet_FAST_SF_RG",
+                "FOG_Helmet_FAST_SF_Black",
+                "FOG_Helmet_FAST_SF_MC",
+                "FOG_Helmet_FAST_SF_MCB",
+                "FOG_Helmet_FAST_SF_ERDL",
+                "FOG_Helmet_FASTMT_Tan",
+                "FOG_Helmet_FASTMT_MC",
+                "FOG_Helmet_FASTMT_Black",
+                "FOG_Helmet_FASTMT_RG",
+                "FOG_Helmet_FASTMT_AOR1",
+                "FOG_Helmet_FASTMT_AOR2"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Other_Military_Tier1",
+            "Loot": [ 
+                "FOG_Belt_RTGFB_CB",
+                "FOG_Belt_RTGFB_MC",
+                "FOG_Belt_RTGFB_RG",
+                "FOG_Belt_RTGFB_Black",
+                "FOG_Belt_RTGFB_AOR1",
+                "FOG_Belt_RTGFB_AOR2",
+                "FOG_Belt_RTGFB_ALP",
+                "FOG_COMTAC3_Headset_CB",
+                "FOG_COMTAC3_Headset_RG",
+                "FOG_M32_Headset_RG",
+                "FOG_M32_Headset_Black",
+                "FOG_Ghost_Headset_Tan",
+                "FOG_Ghost_Mask_New",
+                "FOG_Ghost_Mask_Black",
+                "FOG_Ghost_Mask_Black_White",
+                "FOG_Ghost_Mask_Black_Gold",
+                "FOG_Ghost_Mask_RG",
+                "FOG_Ghost_Mask_Tan",
+                "FOG_Ghost_Mask_Red",
+                "FOG_Ghost_Mask_Red_Gold",
+                "FOG_Knight_Mask",
+                "FOG_Knight_Mask_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Other_Military_Tier2",
+            "Loot": [  
+                "FOG_Belt_RTGFB_CB",
+                "FOG_Belt_RTGFB_MC",
+                "FOG_Belt_RTGFB_RG",
+                "FOG_Belt_RTGFB_Black",
+                "FOG_Belt_RTGFB_AOR1",
+                "FOG_Belt_RTGFB_AOR2",
+                "FOG_Belt_RTGFB_ALP",
+                "FOG_COMTAC3_Headset_CB",
+                "FOG_COMTAC3_Headset_RG",
+                "FOG_M32_Headset_RG",
+                "FOG_M32_Headset_Black",
+                "FOG_Ghost_Headset_Tan",
+                "FOG_Ghost_Mask_New",
+                "FOG_Ghost_Mask_Black",
+                "FOG_Ghost_Mask_Black_White",
+                "FOG_Ghost_Mask_Black_Gold",
+                "FOG_Ghost_Mask_RG",
+                "FOG_Ghost_Mask_Tan",
+                "FOG_Ghost_Mask_Red",
+                "FOG_Ghost_Mask_Red_Gold",
+                "FOG_Knight_Mask",
+                "FOG_Knight_Mask_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Clothing_Other_Military_Tier3",
+            "Loot": [  
+                "FOG_Belt_RTGFB_CB",
+                "FOG_Belt_RTGFB_MC",
+                "FOG_Belt_RTGFB_RG",
+                "FOG_Belt_RTGFB_Black",
+                "FOG_Belt_RTGFB_AOR1",
+                "FOG_Belt_RTGFB_AOR2",
+                "FOG_Belt_RTGFB_ALP",
+                "FOG_COMTAC3_Headset_CB",
+                "FOG_COMTAC3_Headset_RG",
+                "FOG_M32_Headset_RG",
+                "FOG_M32_Headset_Black",
+                "FOG_Ghost_Headset_Tan",
+                "FOG_Ghost_Mask_New",
+                "FOG_Ghost_Mask_Black",
+                "FOG_Ghost_Mask_Black_White",
+                "FOG_Ghost_Mask_Black_Gold",
+                "FOG_Ghost_Mask_RG",
+                "FOG_Ghost_Mask_Tan",
+                "FOG_Ghost_Mask_Red",
+                "FOG_Ghost_Mask_Red_Gold",
+                "FOG_Knight_Mask",
+                "FOG_Knight_Mask_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Military_Tier1",
+            "Loot": [
+                "FOG_GPNVG_Tarzier",
+                "FOG_PVS31",
+                "FOG_PVS31_FDE",
+                "FOG_Big_Patch_US_Colored",
+                "FOG_Big_Patch_US_MC_IR",
+                "FOG_Big_Patch_UK_Colored",
+                "FOG_Big_Patch_RedMan",
+                "FOG_Big_Patch_FOG_cc",
+                "FOG_Big_Patch_CrimeCo",
+                "FOG_Big_Patch_FOG_BB",
+                "FOG_Big_Patch_FOG_BB_EMB",
+                "FOG_Big_Patch_JTAC",
+                "FOG_Big_Patch_FBI",
+                "FOG_Big_Patch_Medic",
+                "FOG_Big_Patch_Shaka",
+                "FOG_Big_Patch_SOG",
+                "FOG_Big_Patch_TACP",
+                "FOG_Small_Patch_US_IR",
+                "FOG_Small_Patch_US_IR_Damaged",
+                "FOG_Small_Patch_US_Subdued",
+                "FOG_Small_Patch_UK_Subdued",
+                "FOG_Pouch_Admin_Small_CB",
+                "FOG_Pouch_Admin_Small_RG",
+                "FOG_Pouch_Admin_Small_MC",
+                "FOG_Pouch_Admin_Small_Black",
+                "FOG_Pouch_Admin_Small_AOR1",
+                "FOG_Pouch_Admin_Small_AOR2",
+                "FOG_Pouch_Admin_Small_ALP",
+                "FOG_Vest_PhoneCase1_Tan",
+                "FOG_Vest_PhoneCase1_Grey",
+                "FOG_Vest_PhoneCase1_Black",
+                "FOG_Vest_PhoneCase1_RG",
+                "FOG_Tourniquet",
+                "FOG_Pouch_SingleMag_MC",
+                "FOG_Pouch_SingleMag_MCB",
+                "FOG_Pouch_SingleMag_RG",
+                "FOG_Pouch_SingleMag_Black",
+                "FOG_Pouch_SingleMag_CB",
+                "FOG_Pouch_Esstac_MC",
+                "FOG_Pouch_Esstac_Black",
+                "FOG_Pouch_Esstac_ALP",
+                "FOG_Pouch_Esstac_AOR1",
+                "FOG_Pouch_Esstac_AOR2",
+                "FOG_Pouch_Esstac_RG",
+                "FOG_Pouch_Esstac_CB",
+                "FOG_Pouch_Belly_MC",
+                "FOG_Pouch_Belly_AOR2",
+                "FOG_Pouch_Belly_Black",
+                "FOG_Pouch_Belly_CB",
+                "FOG_Pouch_Belly_RG",
+                "FOG_Pouch_Grenade_MC",
+                "FOG_Pouch_Grenade_CB",
+                "FOG_Pouch_Grenade_Grey",
+                "FOG_Pouch_Grenade_RG",
+                "FOG_Pouch_Grenade_Black",
+                "FOG_Pouch_TraumaRoll_MC",
+                "FOG_Pouch_TraumaRoll_MCB",
+                "FOG_Pouch_TraumaRoll_Black",
+                "FOG_Pouch_TraumaRoll_CB",
+                "FOG_Pouch_TraumaRoll_RG",
+                "FOG_Comtac3_Headphones_AJ",
+                "FOG_Comtac3_Headphones_RG",
+                "FOG_Comtac3_Headphones_Black",
+                "FOG_Comtac_IV_CB",
+                "FOG_Comtac_IV_RG",
+                "FOG_Comtac_IV_Black",
+                "FOG_M32_Helmet_RG",
+                "FOG_M32_Helmet_Black",
+                "FOG_AMP_Tan",
+                "FOG_AMP_MC",
+                "FOG_AMP_Black",
+                "FOG_AMP_MCB",
+                "FOG_AMP_MCBT",
+                "FOG_SF_Cover_MC",
+                "FOG_SF_Cover_MCB",
+                "FOG_SF_Cover_AOR1",
+                "FOG_SF_Cover_AOR2",
+                "FOG_SF_Cover_CB",
+                "FOG_SF_Cover_RG",
+                "FOG_SF_Cover_Black",
+                "FOG_SF_BatteryPack_Tan",
+                "FOG_SF_BatteryPack_RG",
+                "FOG_SF_BatteryPack_MC",
+                "FOG_SF_BatteryPack_MCB",
+                "FOG_SF_BatteryPack_Black",
+                "FOG_FC_Torus_BattPack_MC",
+                "FOG_FC_Torus_BattPack_MCB",
+                "FOG_FC_Torus_BattPack_Black",
+                "FOG_FC_Torus_BattPack_CB",
+                "FOG_FC_Torus_BattPack_RG"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Military_Tier2",
+            "Loot": [
+                "FOG_GPNVG_Tarzier_Black",
+                "FOG_PVS31_Wrapped",
+                "FOG_PVS31_FDE_Wrapped",
+                "FOG_Pouch_Dump_MC",
+                "FOG_Pouch_Dump_MCB",
+                "FOG_Pouch_Dump_AOR2",
+                "FOG_Pouch_Dump_Black",
+                "FOG_Pouch_Dump_CB",
+                "FOG_Pouch_Dump_RG",
+                "FOG_Pouch_Mag_AVS_CB",
+                "FOG_Pouch_Mag_AVS_RG",
+                "FOG_Pouch_Mag_AVS_MC",
+                "FOG_Pouch_Mag_AVS_Black",
+                "FOG_Pouch_Mag_AVS_AOR1",
+                "FOG_Pouch_Mag_AVS_AOR2",
+                "FOG_Pouch_Mag_AVS_ALP",
+                "FOG_JPC_Panel_CB_Flag_US",
+                "FOG_JPC_Panel_RG_Flag_US",
+                "FOG_JPC_Panel_Black_Flag_US",
+                "FOG_JPC_Panel_MC_Flag_US",
+                "FOG_JPC_Panel_AOR1_Flag_US",
+                "FOG_JPC_Panel_AOR2_Flag_US",
+                "FOG_Pouch_Mag_Kangaroo_MC",
+                "FOG_Pouch_Mag_Kangaroo_AOR1",
+                "FOG_Pouch_Mag_Kangaroo_AOR2",
+                "FOG_Pouch_Mag_Kangaroo_Black",
+                "FOG_Pouch_Mag_Kangaroo_RG",
+                "FOG_Pouch_Mag_Kangaroo_CB",
+                "FOG_Pouch_Mag_Kangaroo_ALP",
+                "FOG_Pouch_Mag_BlueFor_MC",
+                "FOG_Pouch_Mag_BlueFor_RG",
+                "FOG_Pouch_Mag_BlueFor_CB",
+                "FOG_Pouch_Mag_BlueFor_Black",
+                "FOG_Pouch_Mag_BlueFor_AOR1",
+                "FOG_Pouch_Mag_BlueFor_AOR2",
+                "FOG_Pouch_Mag_BlueFor_ALP",
+                "FOG_Pouch_Mag_KTAR_MC",
+                "FOG_Pouch_Mag_KTAR_MCB",
+                "FOG_Pouch_Mag_KTAR_RG",
+                "FOG_Pouch_Mag_KTAR_CB",
+                "FOG_Pouch_Mag_KTAR_Tan",
+                "FOG_Pouch_Mag_KTAR_Black",
+                "FOG_Pouch_Mag_TEAR_MC",
+                "FOG_Pouch_Mag_TEAR_MCB",
+                "FOG_Pouch_Mag_TEAR_RG",
+                "FOG_Pouch_Mag_TEAR_CB",
+                "FOG_Pouch_Mag_TEAR_Black",
+                "FOG_FC_Panel_MC_Flag_US",
+                "FOG_FC_Panel_MCT_Flag_US",
+                "FOG_FC_Panel_Black_Flag_US",
+                "FOG_FC_Panel_CB_Flag_US",
+                "FOG_FC_Panel_RG_Flag_US",
+                "FOG_FC_Panel_M81_Flag_US",
+                "FOG_FC_Panel_ALP_Flag_US",
+                "FOG_FC_Panel_AOR2_Flag_US",
+                "FOG_Panel_MapPackMed_Black",
+                "FOG_Panel_MapPackMed_CB",
+                "FOG_Panel_MapPackMed_RG",
+                "FOG_Panel_MapPackMed_Khk",
+                "FOG_FastMT_Mandable_Tan",
+                "FOG_FastMT_Mandable_MC",
+                "FOG_FastMT_Mandable_Black",
+                "FOG_FastMT_Mandable_RG",
+                "FOG_FastMT_RAC_Tan",
+                "FOG_FastMT_RAC_Black",
+                "FOG_FastMT_RAC_RG",
+                "FOG_FASTMT_Cover_MC",
+                "FOG_FASTMT_Cover_MCB",
+                "FOG_FASTMT_Cover_AOR1",
+                "FOG_FASTMT_Cover_AOR2",
+                "FOG_FASTMT_Cover_ALP",
+                "FOG_FASTMT_Cover_RG",
+                "FOG_FASTMT_Cover_Black",
+                "FOG_Airframe_Cover_CB",
+                "FOG_Airframe_Cover_MC",
+                "FOG_Airframe_Cover_Black",
+                "FOG_Airframe_Cover_MCB",
+                "FOG_Airframe_Cover_RG",
+                "FOG_Airframe_Cover_ALP",
+                "FOG_Airframe_Cover_AOR1",
+                "FOG_Airframe_Cover_AOR2",
+                "FOG_RTGFB_Holster_Tan",
+                "FOG_RTGFB_Holster_MC",
+                "FOG_RTGFB_Holster_RG",
+                "FOG_RTGFB_Holster_Black",
+                "FOG_RTGFB_Holster_ALP",
+                "FOG_SAS_Holster_Tan",
+                "FOG_SAS_Holster_Black",
+                "FOG_SAS_Holster_RG",
+                "FOG_Pouch_LBT_MC",
+                "FOG_Pouch_LBT_MCB"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Military_Tier3",
+            "Loot": [
+                "Plastic_Explosive",
+                "FOG_GPNVG_Elite",
+                "FOG_TV110T_MagPouches_Tan",
+                "FOG_TV110T_MagPouches_CB",
+                "FOG_TV110T_MagPouches_Black",
+                "FOG_TV110T_MagPouches_RG",
+                "FOG_TV110T_MagPouches_AU",
+                "FOG_TV110T_MagPouches_FG",
+                "FOG_TV110T_MagPouches_MC",
+                "FOG_TV110T_AdminPouch_Tan",
+                "FOG_TV110T_AdminPouch_CB",
+                "FOG_TV110T_AdminPouch_Black",
+                "FOG_TV110T_AdminPouch_RG",
+                "FOG_TV110T_AdminPouch_AU",
+                "FOG_TV110T_AdminPouch_FG",
+                "FOG_TV110T_AdminPouch_MC",
+                "FOG_TV110T_FastMag_Tan",
+                "FOG_TV110T_FastMag_CB",
+                "FOG_TV110T_FastMag_Black",
+                "FOG_TV110T_FastMag_RG",
+                "FOG_TV110T_FastMag_AU",
+                "FOG_TV110T_FastMag_FG",
+                "FOG_TV110T_FastMag_MC",
+                "FOG_TV110T_GrenadePouch_Tan",
+                "FOG_TV110T_GrenadePouch_CB",
+                "FOG_TV110T_GrenadePouch_Black",
+                "FOG_TV110T_GrenadePouch_RG",
+                "FOG_TV110T_GrenadePouch_AU",
+                "FOG_TV110T_GrenadePouch_FG",
+                "FOG_TV110T_GrenadePouch_MC",
+                "FOG_TV110T_Medkit_Tan",
+                "FOG_TV110T_Medkit_CB",
+                "FOG_TV110T_Medkit_Black",
+                "FOG_TV110T_Medkit_RG",
+                "FOG_TV110T_Medkit_AU",
+                "FOG_TV110T_Medkit_FG",
+                "FOG_TV110T_Medkit_MC",
+                "FOG_TV110T_UtilityPouch_Tan",
+                "FOG_TV110T_UtilityPouch_CB",
+                "FOG_TV110T_UtilityPouch_Black",
+                "FOG_TV110T_UtilityPouch_RG",
+                "FOG_TV110T_UtilityPouch_AU",
+                "FOG_TV110T_UtilityPouch_FG",
+                "FOG_TV110T_UtilityPouch_MC",
+                "FOG_Pouch_IFAK_Brown",
+                "FOG_Pouch_IFAK_CB",
+                "FOG_Pouch_IFAK_RG",
+                "FOG_Pouch_IFAK_Grey",
+                "FOG_Pouch_IFAK_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier1",
+            "Loot": [
+                "AmmoBox_22_50Rnd",
+                "AmmoBox_380_35rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_357_20Rnd",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_12gaSlug_10Rnd",
+                "SNAFU_Ammo_44",
+                "SNAFU_Ammo_500_SW"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier2",
+            "Loot": [
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_9x39_20Rnd",
+                "AmmoBox_762x39Tracer_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_556x45Tracer_20Rnd",
+                "AmmoBox_556x45_20Rnd",
+                "AmmoBox_545x39Tracer_20Rnd",
+                "AmmoBox_545x39_20Rnd",
+                "AmmoBox_308WinTracer_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_762x54Tracer_20Rnd",
+                "AmmoBox_762x54Tracer_20Rnd",
+                "SNAFU_Ammo_127x55mm",
+                "SNAFU_Ammo_127x55mmA",
+                "SNAFU_Ammo_45_70mm",
+                "SNAFU_Ammo_46x30",
+                "SNAFU_Ammo_5_7x28mm",
+                "SNAFU_Ammo_762x25",
+                "SNAFU_MD_Ammo_556x45mm_M855A1"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Tier3",
+            "Loot": [
+                "GCGN_Ammo_3006",
+                "GCGN_Ammo_408Chey",
+				"GCGN_Ammo_50Cal",
+                "SNAFU_Ammo_145Cal",
+                "SNAFU_Ammo_300ACC",
+                "SNAFU_Ammo_338"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_General",
+            "Loot": [
+                "CombatKnife",
+                "HuntingKnife",
+                "WaterBottle",
+                "Canteen",
+                "Lockpick",
+                "CanOpener",
+                "LeatherSewingKit",
+                "SewingKit",
+                "EpoxyPutty",
+                "DuctTape",
+                "PetrolLighter",
+                "Matchbox"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_NBC",
+            "Loot": [
+                "NBCBootsGray",
+                "NBCBootsYellow",
+                "NBCGlovesGray",
+				"NBCGlovesYellow",
+                "NBCHoodGray",
+                "NBCHoodYellow",
+                "NBCJacketGray",
+                "NBCJacketYellow",
+                "NBCPantsGray",
+                "NBCPantsYellow"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Secret",
+            "Loot": [
+                "LC_predefined_SNAFUAlligator",
+                "LC_predefined_GCGN_M700",
+                "LC_predefined_SNAFU_M48"
+            ]
+        },
+        {
+            "name": "LC_Table_Items_Secret",
+            "Loot": [
+                "FOG_Bag_6ShBagT_Green",
+                "FOG_Bag_6ShBagT_Black",
+                "FOG_Bag_6ShBagT_RG",
+                "FOG_Bag_6ShBagT_CB"
+            ]
+        },
+        {
+            "name": "LC_Table_Ghillie_Secret",
+            "Loot": [
+                "GhillieAtt_Mossy",
+                "GhillieBushrag_Mossy",
+                "GhillieHood_Mossy",
+                "GhillieSuit_Mossy",
+                "GhillieTop_Mossy"
+            ]
+        }
+    ]
+}
