@@ -3,7 +3,7 @@
     "Heli_FuelCapacity": 495.0,
     "Heli_FuelConsumptionRate": 1.2499799728393555,
     "Heli_TrainerMode": 0,
-    "Heli_HasHydraulics": 1,
+    "Heli_HasHydraulics": 0,
     "Heli_SimpleCollective": 0,
     "Flight_MaximumAirspeed": 268.5400085449219,
     "Flight_MaximumAltitude": 1250.0,
